@@ -1,0 +1,1479 @@
+insert into BLOG values (3, N'
+                <p>Để đăng bán một món hàng, bạn chỉ cần thực hiện các bước đơn giản sau:</p>
+<p><strong>Bước 1:</strong> Chọn <strong>Đăng tin </strong>ở trang chủ Chợ Tốt</p>
+<p><img class="alignnone wp-image-6747 " src="https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-473x1024.png" alt="" width="473" height="1024" srcset="https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-139x300.png 139w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-768x1662.png 768w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-710x1536.png 710w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-946x2048.png 946w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1-203x440.png 203w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-1.png 1242w" sizes="(max-width: 473px) 100vw, 473px"></p>
+<p><strong>Bước 2 : </strong>Điền thông tin tin đăng theo hướng dẫn sau đó nhấn nút “ĐĂNG TIN”.</p>
+<p><img loading="lazy" class="alignnone wp-image-6748 size-large" src="https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-473x1024.png" alt="" width="473" height="1024" srcset="https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-139x300.png 139w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-768x1662.png 768w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-710x1536.png 710w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-946x2048.png 946w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS-203x440.png 203w, https://static.chotot.com/storage/trogiup/2015/06/Image-from-iOS.png 1242w" sizes="(max-width: 473px) 100vw, 473px"></p>
+<p><strong><span style="text-decoration: underline;">LƯU Ý:</span></strong></p>
+<ul>
+<li>Nếu bạn chưa đăng ký tài khoản trước đó thì <strong>Chợ Tốt</strong>&nbsp;sẽ yêu cầu bạn <strong>xác nhận số điện thoại</strong>. Tin rao vặt chỉ được kiểm duyệt nếu tài khoản của bạn đã xác nhận số điện thoại nhằm đảm bảo tính xác thực của tài khoản.</li>
+<li>Tất cả tin đăng trên Chợ Tốt đều sẽ qua quy trình kiểm duyệt, nằm ở mục <strong>Đợi duyệt </strong>tại trang <a href="//www.chotot.com/dashboard/ads">Quản lý tin</a>. Hệ thống Chợ Tốt sẽ gửi thông báo qua email đăng tin và qua ứng dụng Chợ Tốt ngay khi tin đăng của bạn được duyệt hay bị từ chối.</li>
+<li>Tham khảo <strong><a href="//trogiup.chotot.com/nguoi-ban/meo-rao-ban-nhanh/" target="_blank" rel="noopener noreferrer">Mẹo rao bán nhanh</a></strong> để biết cách bán hàng hiệu quả hơn.</li>
+<li>Tham khảo <strong><a href="//trogiup.chotot.com/nguoi-ban/tai-sao-tin-cua-toi-bi-tu-choi/" target="_blank" rel="noopener noreferrer">Tại sao tin của tôi bị từ chối</a> </strong>để tránh các trường hợp khiến tin của bạn không được phép đăng.</li>
+</ul>
+                ', N'Các bước rao bán một món hàng', N'Tìm một vị trí biệt lập (công viên, sân bãi rộng thoáng) để chiếc xe của bạn trở thành tâm điểm của bức ảnh và có phông nền đẹp.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (4, N'
+                <p><strong>Chợ Tốt</strong> hiện nay đã phát triển trên cả hai nền tảng website và ứng dụng (App).&nbsp;Để đăng bán một món hàng trên chính điện thoại của mình bằng cách dùng Ứng dụng của Chợ Tốt, bạn chỉ cần thực hiện các bước đơn giản sau:</p>
+<p><strong>Bước 1:</strong>&nbsp; Đăng nhập vào vào&nbsp;ứng dụng&nbsp;Chợ Tốt</p>
+<ul>
+<li>Nếu bạn chưa có ứng dụng Chợ Tốt, vui lòng&nbsp;<a href="//trogiup.chotot.com/ban-hang-tai-chotot-vn/ban-hang-nhu-the-nao/trai-nghiem-tuyet-voi-hon-voi-ung-dung-cho-tot-tren-android-va-ios/">cài đặt tại đây</a>&nbsp;nhé !</li>
+<li>Nếu bạn chưa có tài khoản trên Chợ Tốt, hãy nhấn&nbsp;<a href="//trogiup.chotot.com/nguoi-ban/lam-sao-dang-ky-tai-khoan-chotot-vn/" target="_blank" rel="noopener noreferrer">vào đây</a> để xem hướng dẫn tạo tài khoản nhé !</li>
+<li>Nếu bạn đã tạo&nbsp;tài khoản nhưng quên mật khẩu,&nbsp;hãy&nbsp;nhấn&nbsp;<a href="//trogiup.chotot.com/nguoi-ban/canh-lay-lai-mat-khau-tai-khoan-cho-tot/">vào đây</a> để được hướng dẫn lấy lại mật khẩu nhé !</li>
+</ul>
+<p><strong>Bước 2:</strong>&nbsp; Chọn biểu tượng&nbsp; BÁN trên&nbsp;ứng dụng Chợ Tốt&nbsp;để bắt đầu đăng tin<strong><strong><br>
+</strong></strong></p>
+<p><img class="alignnone wp-image-1938" src="https://static.chotot.com/storage/trogiup/sites/2/listing-page-250x4421.png" alt="listing-page-250x442" width="170" height="300"></p>
+<p><strong>Bước 3 : </strong>Tạo tin đăng theo hướng dẫn.</p>
+<p><img loading="lazy" class="alignnone wp-image-1241 size-medium" src="https://static.chotot.com/storage/trogiup/sites/2/41-250x442.jpg" alt="4" width="170" height="300"></p>
+<p><strong>– </strong>Nhấp vào “chụp nhiều hình để bán chạy hơn” như trong hình để <strong>chụp hình sản phẩm</strong> hoặc <strong>tải lên hình có sẵn trong máy</strong> như sau:</p>
+<p><img loading="lazy" class="alignnone wp-image-1292 size-medium" src="https://static.chotot.com/storage/trogiup/sites/2/11-250x442.jpg" alt="11" width="170" height="300"></p>
+<p><strong>– </strong>Bạn có thể chụp hình, hoặc chọn hình có sẵn trong điện thoại nhé ! Chợ tốt khuyến khích bạn dùng 6 hình rõ đẹp của sản phẩm để tin đăng chất lượng.</p>
+<p><img loading="lazy" class="alignnone wp-image-1239 size-medium" src="https://static.chotot.com/storage/trogiup/sites/2/2-250x443.jpg" alt="2" width="169" height="300"></p>
+<p><strong>–</strong>&nbsp;Sau khi có hình của sản phẩm cần bán. Tiến hành nhập nội dung còn thiếu như: Tiêu đề, danh mục, giá, thêm chi tiết. Rồi chọn&nbsp;Đăng Bán.</p>
+<p><img loading="lazy" class="alignnone wp-image-1240 " src="https://static.chotot.com/storage/trogiup/sites/2/3-250x506.jpg" alt="3" width="168" height="341"></p>
+<p><strong>&nbsp;</strong><strong>Bước 4&nbsp;:&nbsp;Kết thúc quy trình đăng tin và đợi tin được duyệt.</strong></p>
+<p>Chúc mừng bạn đã hoàn thành việc đăng tin ! Chợ Tốt sẽ cố gắng duyệt tin của bạn nhanh nhất có thể !</p>
+<p><img loading="lazy" class="alignnone wp-image-1937" src="https://static.chotot.com/storage/trogiup/sites/2/501.jpg" alt="50" width="363" height="286"></p>
+<h1></h1>
+                ', N'Đăng tin với ứng dụng Chợ Tốt', N'Chụp tổng thể chiếc xe, trước, sau, mặt bên, bánh xe, lốp xe, động cơ, yên ghế, và đồng hồ đo để người mua tiềm năng có thể đọc được số km mà xe đã chạy.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <p><img class="size-full wp-image-6195 aligncenter" src="https://static.chotot.com/storage/trogiup/2020/07/Video-in-ad_850x350.png" alt="" width="850" height="350" srcset="https://static.chotot.com/storage/trogiup/2020/07/Video-in-ad_850x350.png 850w, https://static.chotot.com/storage/trogiup/2020/07/Video-in-ad_850x350-300x124.png 300w, https://static.chotot.com/storage/trogiup/2020/07/Video-in-ad_850x350-768x316.png 768w, https://static.chotot.com/storage/trogiup/2020/07/Video-in-ad_850x350-280x115.png 280w" sizes="(max-width: 850px) 100vw, 850px"></p>
+<blockquote><p><span style="font-weight: 400;">Nhằm giúp tin đăng truyền tải được nhiều thông tin và cuốn hút người mua hơn, Chợ Tốt đã chính thức ra mắt tính năng </span><b>Đăng tin có chứa Video</b><span style="font-weight: 400;">. Tính năng mới này cho phép người dùng đăng tải thêm 1 video về sản phẩm cần bán. Giờ đây, bạn đã có thể dễ dàng giới thiệu sản phẩm của mình một cách sống động, chi tiết và thu hút hơn!</span></p></blockquote>
+<div class="wonderplugin-video" style="width:600px;height:400px;position:relative;display:block;background-color:#000;overflow:hidden;max-width:100%;margin:0 auto;" data-aspectratio="1.5" id="0"><iframe class="wpve-iframe" width="100%" height="100%" src="https://www.youtube.com/embed/O-afUl_K6uk" frameborder="0" allowfullscreen=""></iframe></div>
+<h4></h4>
+<h4><strong>Lưu ý khi đăng tin có chứa video</strong></h4>
+<p><span style="font-weight: 400;">1. Tính năng đăng tin có chứa Video:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Hỗ trợ đăng tải trên các nền tảng sau:</span>
+<ul>
+<li><strong>Giao diện web <a href="//www.chotot.com">www.chotot.com</a> </strong>trên máy tính/điện thoại/máy tính bảng.</li>
+<li><span style="font-weight: 400;"><strong>Ứng dụng Chợ Tốt trên thiết bị Android và iOS</strong>. <span style="text-decoration: underline;">Lưu ý</span>: Để trải nghiệm tính năng mới, vui lòng cập nhật phiên bản ứng dụng Chợ Tốt mới nhất tại <a href="//apps.apple.com/us/app/chotot-vn/id790034666">đây</a>.</span></li>
+</ul>
+</li>
+<li><span style="font-weight: 400;">Áp dụng cho các tin đăng t</span>huộc các khu vực: <strong>TP.HCM, Hà Nội, Bình Dương, Đồng Nai, Long An</strong> ở <strong>tất cả các chuyên mục, ngoài trừ chuyên mục Việc làm</strong>.</li>
+</ul>
+<p><span style="font-weight: 400;">2. Tin có chứa video sau khi duyệt thành công sẽ xem được trên tất cả các thiết bị.</span></p>
+<p><span style="font-weight: 400;">3. Giới hạn 1 video/tin đăng và tối đa 10 tin đăng có chứa video/tháng cho mỗi tài khoản Chợ Tốt.</span></p>
+<p><span style="font-weight: 400;">4. Mỗi video đăng tải có thời lượng không quá 3 phút.</span></p>
+<p><span style="font-weight: 400;">5. Tính năng đăng video không ảnh hưởng đến chất lượng và số lượng hình ảnh tối đa được đăng.</span></p>
+<p><span style="font-weight: 400;">6. Tin đăng có thể được duyệt và đăng tải lên trang trước phần video. Chúng tôi sẽ thông báo trạng thái duyệt tin và duyệt video với bạn tại mục Thông báo&nbsp; – Hoạt động <img loading="lazy" class="alignnone wp-image-6189" src="https://static.chotot.com/storage/trogiup/2020/07/Thong-bao.png" alt="" width="39" height="31"></span></p>
+<p>&nbsp;</p>
+<a id="post-video" data-ps2id-target=""></a>
+<h4><strong>Các bước đăng tin hoặc sửa tin có chứa video</strong></h4>
+<p><span style="font-weight: 400;">Để sử dụng tính năng này, bạn chỉ cần thực hiện vài bước đơn giản sau:</span></p>
+<p><b>Bước 1: </b><span style="font-weight: 400;">Đăng nhập vào Chợ Tốt và thực hiện các bước đăng tin hoặc sửa tin như thường lệ.</span></p>
+<ul>
+<li>Chọn <b>Đăng tin </b>nếu muốn đăng tin mới.</li>
+<li>Nhấn vào nút “Sửa tin” trong&nbsp;trang <b>Quản lý tin</b> nếu cần thêm/sửa video cho tin đã đăng trước đó.</li>
+</ul>
+<p><span style="font-weight: 400;"><strong>Bước 2</strong>: Bấm vào nút </span><span style="font-weight: 400;">đăng video <img loading="lazy" class="alignnone wp-image-6194 " src="https://static.chotot.com/storage/trogiup/2020/07/Video-cam-button-150x137.png" alt="" width="30" height="27"> để tải video từ máy bạn lên.</span></p>
+<p><span style="font-weight: 400;"><strong>Bước 3</strong>: Tiếp tục điền các thông tin theo yêu cầu và bấm nút </span><b>Đăng tin</b>.</p>
+<table style="border-collapse: collapse;" border="0">
+<tbody>
+<tr>
+<td style="width: 250px; height: 46px; text-align: center; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"><span style="color: #0000ff;"><strong>ĐĂNG TIN</strong></span></td>
+<td style="width: 120px; height: 46px; text-align: center;"></td>
+<td style="width: 250px; height: 46px; text-align: center; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"><span style="color: #0000ff;"><strong>SỬA TIN</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 284px; height: 24px; border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black;"><img loading="lazy" class="alignnone size-full wp-image-6850" src="https://static.chotot.com/storage/trogiup/2020/07/themvideomoi.gif" alt="" width="1242" height="2208"></td>
+<td style="width: 120px; height: 24px; text-align: center;"></td>
+<td style="text-align: center; width: 284px; height: 24px; border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black;"><img loading="lazy" class="alignnone size-full wp-image-6849" src="https://static.chotot.com/storage/trogiup/2020/07/suatincu.gif" alt="" width="1242" height="2208"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Xong rồi! Giờ chỉ cần đợi thêm chút xíu để duyệt tin thôi. Chợ Tốt sẽ cố gắng duyệt tin của bạn nhanh nhất có thể!</span></p>
+<p style="padding-left: 40px;"><a href="//chotot.app.link/eLjeQ9Z1m8"><img loading="lazy" class="wp-image-6205 size-full alignnone" src="https://static.chotot.com/storage/trogiup/2020/07/post_ad_button.png" alt="" width="400" height="72" srcset="https://static.chotot.com/storage/trogiup/2020/07/post_ad_button.png 400w, https://static.chotot.com/storage/trogiup/2020/07/post_ad_button-300x54.png 300w, https://static.chotot.com/storage/trogiup/2020/07/post_ad_button-280x50.png 280w" sizes="(max-width: 400px) 100vw, 400px"></a></p>
+<p style="padding-left: 40px;"><a href="//chotot.app.link/ct_xe_videoinad_edit"><img loading="lazy" class="size-full wp-image-6204 alignnone" src="https://static.chotot.com/storage/trogiup/2020/07/edit_ad_button.png" alt="" width="400" height="72" srcset="https://static.chotot.com/storage/trogiup/2020/07/edit_ad_button.png 400w, https://static.chotot.com/storage/trogiup/2020/07/edit_ad_button-300x54.png 300w, https://static.chotot.com/storage/trogiup/2020/07/edit_ad_button-280x50.png 280w" sizes="(max-width: 400px) 100vw, 400px"></a></p>
+                ', N'Hướng dẫn đăng tin có chứa Video trên Chợ Tốt', N'Các cửa hàng, doanh nghiệp thuộc chương trình “Đối Tác Chợ Tốt” sẽ được gắn nhãn “ĐỐI TÁC” trên giao diện tin đăng và trong cửa hàng như hình minh họa bên dưới:', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (5, N'
+                <p>&nbsp;</p>
+<p><img class="alignnone wp-image-6845 size-full" src="https://static.chotot.com/storage/trogiup/2022/05/bancobiet.png" alt="" width="960" height="400" srcset="https://static.chotot.com/storage/trogiup/2022/05/bancobiet.png 960w, https://static.chotot.com/storage/trogiup/2022/05/bancobiet-300x125.png 300w, https://static.chotot.com/storage/trogiup/2022/05/bancobiet-768x320.png 768w, https://static.chotot.com/storage/trogiup/2022/05/bancobiet-280x117.png 280w" sizes="(max-width: 960px) 100vw, 960px"></p>
+<p><span style="font-weight: 400;">Nhận thấy hiệu quả mang lại của video, Chợ Tốt đã ra mắt tính năng </span><a href="//trogiup.chotot.com/nguoi-ban/huong-dan-dang-tin-co-kem-video-tren-cho-tot/"><span style="font-weight: 400;">Đăng tin có chứa Video</span></a><span style="font-weight: 400;"> nhằm giúp tăng cơ hội bán hàng của người dùng trên Chợ Tốt.</span></p>
+<p><span style="font-weight: 400;">Để tối ưu hiệu quả đăng tin có chứa video trên Chợ Tốt, giúp thu hút nhiều người mua hơn, Chợ Tốt gợi ý bạn 1 số mẹo quay video sau:</span></p>
+<h4><b>Mẹo 1: Về nội dung</b></h4>
+<p><span style="font-weight: 400;">Bạn có thể tạo một hoặc kết hợp các loại video sau cho sản phẩm của bạn:</span></p>
+<ul>
+<li><strong>Video miêu tả sản phẩm: </strong><span style="font-weight: 400;">Quay sản phẩm từ tổng quát đến chi tiết, giới thiệu và giải thích các đặc điểm chính, nổi bật của sản phẩm:</span>
+<ul>
+<li><span style="font-weight: 400;">Quay rõ hiện trạng về chất liệu, chất lượng của sản phẩm. Đối với đồ điện tử, đừng quên quay các thông số.</span></li>
+<li><span style="font-weight: 400;">Nếu sản phẩm của bạn có sự khác biệt/đặc biệt về tính năng so với sản phẩm khác cùng loại, đừng quên nhấn mạnh hướng dẫn trong video của bạn.</span></li>
+</ul>
+</li>
+<li><b>Video hướng dẫn sử dụng sản phẩm</b><span style="font-weight: 400;">: cho người xem thấy cách sử dụng của sản phẩm trên thực tế hoặc trong các tình huống khác nhau, và hiệu quả của từng công dụng.</span></li>
+<li><b>Video cảm nhận: </b><span style="font-weight: 400;">bạn có thể thêm một đoạn cảm nhận/review về sản phẩm của một người có uy tín nhằm tăng niềm tin của khách hàng vào sản phẩm.</span></li>
+</ul>
+<table style="height: 471px; border-collapse: collapse; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 24px;">
+<td style="width: 350px; text-align: center; height: 24px; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"><span style="color: #0000ff;"><strong><br>
+BẤT ĐỘNG SẢN</strong></span></td>
+<td style="width: 5px; height: 24px;"></td>
+<td style="width: 350px; text-align: center; height: 24px; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"><span style="color: #0000ff;"><strong><br>
+XE</strong></span></td>
+<td style="width: 5px; height: 24px;"></td>
+<td style="width: 350px; text-align: center; height: 24px; border-top: 1px solid black; border-left: 1px solid black; border-right: 1px solid black;"><span style="color: #0000ff;"><strong><br>
+THÚ CƯNG</strong></span></td>
+</tr>
+<tr style="height: 175px;">
+<td style="width: 350px; text-align: center; height: 175px; border-left: 1px solid black; border-right: 1px solid black;"><img loading="lazy" class="alignnone wp-image-6846" src="https://static.chotot.com/storage/trogiup/2022/05/Batdongsan.gif" alt="" width="270" height="173"></td>
+<td style="width: 5px; height: 175px;"></td>
+<td style="width: 350px; text-align: center; height: 175px; border-left: 1px solid black; border-right: 1px solid black;"><img loading="lazy" class="alignnone wp-image-6848 size-full" src="https://static.chotot.com/storage/trogiup/2022/05/Xe.gif" alt="" width="480" height="270"></td>
+<td style="width: 5px; height: 175px;"></td>
+<td style="width: 350px; text-align: center; height: 175px; border-left: 1px solid black; border-right: 1px solid black;"><img loading="lazy" class="alignnone wp-image-6847 size-full" src="https://static.chotot.com/storage/trogiup/2022/05/Thucung.gif" alt="" width="480" height="270"></td>
+</tr>
+<tr style="height: 272px;">
+<td style="text-align: center; width: 350px; height: 272px; border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black;">
+<ul>
+<li style="text-align: left;"><span style="font-weight: 400;">Quay từ xa đến gần các chi tiết của bất động sản. Nếu là bất động sản đang/chưa hình thành, bạn hãy thêm video 3D hoặc mô phỏng (nếu có). Có thể lồng tiếng thêm về hướng, diện tích, một số tiện ích liên quan.</span></li>
+<li style="text-align: left;"><span style="font-weight: 400;">Nếu có, hãy chèn thêm một đoạn cảm nhận về dự án của bạn từ người nổi tiếng.</span></li>
+</ul>
+</td>
+<td style="width: 5px; text-align: center; height: 272px;"><span style="color: #0000ff;"><strong>&nbsp;</strong></span></td>
+<td style="text-align: center; width: 350px; height: 272px; border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black;">
+<ul>
+<li style="font-weight: 400; text-align: left;" aria-level="1"><span style="font-weight: 400;">Quay từ tổng quan đến chi tiết xe. Nếu là xe cũ, đừng quên quay cận cảnh các chi tiết của xe gồm các thông số, máy móc, nội thất; thu âm rõ tiếng động cơ xe.&nbsp;</span></li>
+<li style="font-weight: 400; text-align: left;" aria-level="1"><span style="font-weight: 400;">Nếu xe của bạn có sự khác biệt về cách sử dụng so với xe thông thường, đừng quên nhấn mạnh hướng dẫn trong video của bạn.</span></li>
+</ul>
+</td>
+<td style="text-align: center; width: 5px; height: 272px;"><span style="color: #0000ff;"><strong>&nbsp;</strong></span></td>
+<td style="text-align: center; width: 350px; height: 272px; border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black;">
+<ul>
+<li style="font-weight: 400; text-align: left;" aria-level="1"><span style="font-weight: 400;">Quay từ tổng quan đến chi tiết thú cưng. Thể hiện được rõ về ngoại hình và cử chỉ của thú cưng.&nbsp;</span></li>
+<li style="font-weight: 400; text-align: left;" aria-level="1"><span style="font-weight: 400;">Đừng bỏ qua âm thanh, tiếng kêu của thú cưng vì đây cũng là yếu tố quan trọng, giúp người mua cảm thấy gần gũi hơn.&nbsp;</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><b>Mẹo 2: Về thời gian</b></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Video có thời lượng không quá 3 phút.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">6-10 giây đầu của video rất quan trọng trong việc giữ chân và gây thiện cảm cho người xem.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Trường hợp video dài quá, bạn có thể chỉnh tua nhanh thông qua trình chỉnh sửa video trực tiếp trên thiết bị, hoặc các ứng dụng chỉnh sửa video đơn giản.</span></li>
+</ul>
+<h4><b>Mẹo 3: Về hình ảnh</b></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sử dụng điện thoại di động hoặc máy ảnh có chất lượng ghi hình tốt. Tránh rung lắc khi ghi hình.&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đảm bảo rằng có đủ sáng để sản phẩm được thể hiện rõ ràng.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Phông nền gọn gàng, loại bỏ các thứ có thể gây mất tập trung cho Người xem.&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sử dụng các phần mềm chỉnh sửa đơn giản và thêm mô tả cho Video</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Sau khi đã hoàn tất quay video cho sản phẩm, người bán có thể thực hiện đăng tải video lên Chợ Tốt theo hướng dẫn. </span><a href="//trogiup.chotot.com/nguoi-ban/huong-dan-dang-tin-co-kem-video-tren-cho-tot/#post-video" class="__mPS2id"><span style="font-weight: 400;">Xem các bước đăng tải video lên Chợ Tốt</span></a><span style="font-weight: 400;">.</span></p>
+                ', N'Mẹo bán hàng hiệu quả với tin đăng có chứa Video trên Chợ Tốt', N'Chụp hình vào những khung giờ đẹp (7h – 9h sáng hoặc 16-17h chiều). Tránh chụp chiếc xe vào giờ nghỉ trưa hay khi đang để trong một bãi đậu xe để tránh dư sáng hay thiếu sáng cho hình ảnh của bạn.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (5, N'
+                <div class="arve wp-block-nextgenthemes-arve" data-mode="normal" data-oembed="1" data-provider="youtube" id="arve-youtube-siujxv_7hve634600e706771048394620">
+<span class="arve-inner">
+<span class="arve-embed arve-embed--has-aspect-ratio" style="aspect-ratio: 500 / 281">
+<span class="arve-ar" style="padding-top:56.200000%"></span><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="arve-iframe fitvidsignore" data-arve="arve-youtube-siujxv_7hve634600e706771048394620" data-src-no-ap="https://www.youtube-nocookie.com/embed/SIujXV_7hVE?feature=oembed&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;autohide=1&amp;playsinline=0&amp;autoplay=0" frameborder="0" sandbox="allow-scripts allow-same-origin allow-presentation allow-popups allow-popups-to-escape-sandbox" scrolling="no" src="https://www.youtube-nocookie.com/embed/SIujXV_7hVE?feature=oembed&amp;iv_load_policy=3&amp;modestbranding=1&amp;rel=0&amp;autohide=1&amp;playsinline=0&amp;autoplay=0"></iframe>
+
+</span>
+
+</span>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@id":"https:\/\/trogiup.chotot.com\/nguoi-ban\/meo-rao-ban-nhanh\/#arve-youtube-siujxv_7hve634600e706771048394620","type":"VideoObject","embedURL":"https:\/\/www.youtube-nocookie.com\/embed\/SIujXV_7hVE?feature=oembed&iv_load_policy=3&modestbranding=1&rel=0&autohide=1&playsinline=0&autoplay=0"}</script>
+</div>
+
+<p>Để giúp bạn bán hàng nhanh hơn,&nbsp;&nbsp;những mẹo nhỏ dành cho người bán:</p>
+<ul>
+<li><strong>Hình ảnh đầy đủ, rõ ràng, thật</strong>
+<ul>
+<li>Sử dụng nhiều hình ảnh thật của món hàng cần bán. Hình ảnh chụp rõ ràng, đủ ánh sáng, đúng chiều và chụp từ nhiều góc cạnh khác nhau của món hàng cần bán để tăng độ tin cậy, tiết kiệm thời gian xem hàng, thu hút&nbsp;người mua, đặc biệt là đối với các món hàng xe cộ, đồ điện tử.</li>
+<li>Hình ảnh không được có email, địa chỉ website khác, logo.</li>
+<li>Nếu sản phẩm còn bảo hành hoặc hoá đơn mua hàng, hãy chụp hình phiếu bảo hành/hoá đơn để tăng độ tin cậy.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>Thông tin chi tiết hơn</strong></li>
+</ul>
+<p>Mô tả sản phẩm kĩ càng (Tên món hàng, loại, màu sắc, đời, tình trạng, đặc điểm kĩ thuật, giá tiền, …) giúp tin của bạn được kiểm duyệt nhanh hơn, tránh phải giải thích thêm cho người mua và tăng độ tin cậy của tin đăng.</p>
+<ul>
+<li><strong>Tiêu đề cụ thể </strong></li>
+</ul>
+<p>Đặt tiêu đề cụ thể, như “<em>iPhone 5S 16GB màu đen, phiên bản Quốc tế</em>” hay “<em>Honda Airblade zin 100%, giấy tờ chính chủ</em>” hoặc “<em>Nhà 80m2, trong hẻm đường Lê Đức Thọ, phường 18, Gò Vấp, TPHCM</em>” sẽ giúp tin đăng được nhiều người xem hơn.</p>
+<ul>
+<li><strong>Giá tốt </strong></li>
+</ul>
+<p>Tham khảo giá của những món hàng tương tự đang được rao bán trên Chợ Tốt bằng cách sử dụng công cụ tìm kiếm tại Chợ Tốt để lựa chọn mức giá phù hợp nhất, giúp sản phẩm bán chạy hơn.</p>
+<ul>
+<li><strong>Thông tin liên lạc chính xác, rõ ràng</strong></li>
+</ul>
+<p>Thông tin liên lạc (bao gồm số điện thoại, địa chỉ email và địa chỉ bạn muốn giao dịch) được đăng phải chính xác, rõ ràng để người mua có thể liên hệ được với bạn.</p>
+<ul>
+<li><strong>Mỗi tin đăng bán một sản phẩm</strong></li>
+</ul>
+<p>Nếu các sản phẩm thuộc chuyên mục khác nhau, đăng các tin khác nhau sẽ giúp người mua tìm sản phẩm của bạn sẽ dễ dàng hơn, đặc biệt là bất động sản, xe cộ, đồ điện tử, đồ điện lạnh và sản phẩm đắt tiền.</p>
+                ', N'Tin đăng chất lượng, bán hàng nhanh hơn', N'Để tin đăng xe có thể nổi bật, hiệu quả và thu hút người mua giữa hàng ngàn tin đăng khác ở Chợ Tốt là 1 điều không hề đơn giản. Thấu hiểu mong muốn của người dùng, Chợ Tốt sẽ chỉ cho bạn mẹo đăng tin rao bán xe hiệu quả nhất.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <p>Nếu gặp lỗi kỹ thuật không thể đăng được tin/hình ảnh trên Chợ Tốt, bạn có thể thay đổi trình duyệt hoặc nền tảng khác.</p>
+<ul>
+<li><strong>Trường hợp 1: Lỗi kỹ thuật trên trình duyệt web</strong>
+<ul>
+<li>Sử dụng trình duyệt web khác để đăng tin rao vặt. Một số trình duyệt web như: Chrome, Internet Explorer, Firefox, Safari, Cốc Cốc hay Opera.</li>
+<li>HOẶC sử dụng ứng dụng Chợ Tốt trên điện thoại. <a href="https://trogiup.chotot.com/nguoi-ban/trai-nghiem-tuyet-voi-hon-voi-ung-dung-cho-tot-tren-android-va-ios/">Xem hướng dẫn tải ứng dụng</a>.</li>
+</ul>
+</li>
+<li><strong>Trường hợp 2: Lỗi kỹ thuật trên ứng dụng Chợ Tốt</strong>
+<ul>
+<li>Cập nhật phiên bản ứng dụng Chợ Tốt mới nhất trên Appstore (nếu sử dụng hệ điều hành iOS) hoặc trên Google Play (nếu sử dụng hệ điều hành Android).</li>
+<li>HOẶC sử dụng trình duyệt web (Chrome, Firefox, …) để truy cập Chợ Tốt với địa chỉ <a href="https://www.chotot.com/">chotot.com</a> và thực hiện đăng lại tin.</li>
+</ul>
+</li>
+</ul>
+<p>Nếu đã thao tác theo hướng dẫn trên nhưng lỗi kỹ thuật vẫn xảy ra, vui lòng liên hệ bộ phận Chăm sóc Khách hàng của Chợ Tốt theo các kênh sau:</p>
+<ul>
+<li>Email: <a href="mailto:trogiup@chotot.vn">trogiup@chotot.vn</a></li>
+<li>Hotline: 19003003</li>
+<li><a href="https://trogiup.chotot.com/lien-he/?live_support=1">Chat trực tuyến</a>.</li>
+</ul>
+                ', N'Tôi phải làm gì nếu không đăng được tin/hình ảnh?', N'Nếu bạn quan tâm đến chương trình “Đối Tác Chợ Tốt”, vui lòng để lại thông tin theo link bên dưới để Chợ Tốt ưu tiên gửi thông báo đến bạn khi chúng tôi mở rộng quy mô chương trình.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <p>Việc chọn đúng chuyên mục đăng tin cho sản phẩm đang rao bán sẽ giúp tin đăng của bạn tiếp cận đúng người dùng, từ đó giúp bạn bán hàng nhanh hơn. Tìm hiểu chi tiết chuyên mục đăng tin trên Chợ Tốt:</p>
+<table dir="ltr" style="height: 219px; width: 750px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 10px;"><img class="size-full wp-image-6334 alignleft" src="https://static.chotot.com/storage/trogiup/2021/03/Đồ-dùng-văn-phòng-công-nông-nghiệp.png" alt="" width="57" height="47"></td>
+<td style="height: 10px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ dùng văn phòng, công nông nghiệp&quot;}"><strong style="font-family: inherit; font-size: inherit;">Đồ dùng vă</strong><strong style="font-family: inherit; font-size: inherit;">n phòng, công nông nghiệp</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="height: 24px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ chuyên dụng, giống nuôi trồng (Xe nước mía, máy bơm, ...)&quot;}">Đồ chuyên dụng, giống nuôi trồng <em>(Xe nước mía, máy bơm, …)</em></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="height: 24px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ dùng văn phòng (Máy chiếu, máy photo, bàn ghế văn phòng, …)&quot;}">Đồ dùng văn phòng <em>(Máy chiếu, máy photo, bàn ghế văn phòng, …)</em></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 10px;"><img loading="lazy" class="size-full wp-image-6335 alignleft" src="https://static.chotot.com/storage/trogiup/2021/03/Giải-trí-Thể-thao-Sở-thích.png" alt="" width="54" height="41"></td>
+<td style="height: 10px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Giải trí, Thể thao, Sở thích&quot;}"><strong>Giải trí, Thể thao, Sở thích</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="height: 24px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ sưu tầm, Đồ cổ (Tranh ảnh, gốm sứ, …)&quot;}">Đồ sưu tầm, Đồ cổ <em>(Tranh ảnh, gốm sứ, …)</em></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="height: 24px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ thể thao, Dã ngoại (Máy chạy bộ, lều cắm trại, …)&quot;}">Đồ thể thao, Dã ngoại <em>(Máy chạy bộ, lều cắm trại, …)</em></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="height: 24px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nhạc cụ | Sách | Thiết bị chơi game&quot;}">Nhạc cụ | Sách | Thiết bị chơi game</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="height: 24px; width: 751px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sở thích khác (đồ lưu niệm, bài uno, cờ, …)&quot;}">Sở thích khác <em>(Đồ lưu niệm, bài uno, cờ, …)</em></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 57px; height: 18px;"><img loading="lazy" class="alignnone size-full wp-image-6337" src="https://static.chotot.com/storage/trogiup/2021/03/Dịch-vụ-Du-lịch.png" alt="" width="49" height="46"></td>
+<td style="width: 751px; height: 18px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dịch vụ, Du lịch&quot;}"><strong>Dịch vụ, Du lịch</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dịch vụ | Du lịch (Vé máy bay, tour)&quot;}">Dịch vụ | Du lịch <em>(Vé máy bay, tour)</em></td>
+</tr>
+<tr style="height: 56px;">
+<td style="width: 57px; height: 56px;"><img loading="lazy" class="alignnone size-full wp-image-6343" src="https://static.chotot.com/storage/trogiup/2021/03/Thú-cưng.png" alt="" width="60" height="53"></td>
+<td style="width: 751px; height: 56px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thú cưng&quot;}"><strong>Thú cưng</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Chim | Chó | Gà | Mèo | Thú cưng khác (cá cảnh, hamster, …)&quot;}">Chim | Chó | Gà | Mèo | Thú cưng khác <em>(Cá cảnh, hamster, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Phụ kiện, Thức ăn, Dịch vụ ((Hồ cá, lồng chim, phối giống, chăm sóc thú cưng, …)&quot;}">Phụ kiện, Thức ăn, Dịch vụ <em>(Hồ cá, lồng chim, phối giống, chăm sóc thú cưng, …)</em></td>
+</tr>
+<tr style="height: 53px;">
+<td style="width: 57px; height: 53px;"><img loading="lazy" class="alignnone size-full wp-image-6340" src="https://static.chotot.com/storage/trogiup/2021/03/Đồ-gia-dụng-nội-thất-cây-cảnh.png" alt="" width="61" height="51"></td>
+<td style="width: 751px; height: 53px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ gia dụng, nội thất, cây cảnh&quot;}"><strong>Đồ gia dụng, nội thất, cây cảnh</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bàn ghế (Bàn trang điểm, bàn ăn, ...) &quot;}">Bàn ghế <em>(Bàn trang điểm, bàn ăn, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tủ, kệ gia đình (Tủ thờ, kệ sách, ...)&quot;}">Tủ, kệ gia đình <em>(Tủ thờ, kệ sách, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Giường, chăn ga gối nệm&quot;}">Giường, chăn ga gối nệm</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dụng cụ nhà bếp (Máy xay sinh tố, bộ nồi chảo, ...)&quot;}">Dụng cụ nhà bếp <em>(Máy xay sinh tố, bộ nồi chảo, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bếp, lò, đồ điện nhà bếp&quot;}">Bếp, lò, đồ điện nhà bếp</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cây cảnh, đồ trang trí | Đèn&quot;}">Cây cảnh, đồ trang trí | Đèn</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nội thất, đồ gia dụng khác (Bàn ủi, giấy dán tường, máy đo huyết áp, ...)&quot;}">Nội thất, đồ gia dụng khác <em>(Bàn ủi, giấy dán tường, máy đo huyết áp, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Quạt (Quạt trần, máy lọc không khí, …)&quot;}">Quạt <em>(Quạt trần, máy lọc không khí, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thiết bị vệ sinh, nhà tắm (Bình tắm nóng lạnh, máy nước nóng, ...)&quot;}">Thiết bị vệ sinh, nhà tắm <em>(Bình tắm nóng lạnh, máy nước nóng, …)</em></td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 57px; height: 55px;"><img loading="lazy" class="alignnone size-full wp-image-6342" src="https://static.chotot.com/storage/trogiup/2021/03/Thời-trang-Đồ-dùng-cá-nhân.png" alt="" width="41" height="48"></td>
+<td style="width: 751px; height: 55px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thời trang, Đồ dùng cá nhân&quot;}"><strong>Thời trang, Đồ dùng cá nhân</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồng hồ | Giày dép | Nước hoa | Quần áo| Túi xách&quot;}">Đồng hồ | Giày dép | Nước hoa | Quần áo| Túi xách</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Phụ kiện thời trang khác (Khẩu trang y tế, thắt lưng, mắt kính, mỹ phẩm, ...)&quot;}">Phụ kiện thời trang khác <em>(Khẩu trang y tế, thắt lưng, mắt kính, mỹ phẩm, …)</em></td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 57px; height: 55px;"><img loading="lazy" class="alignnone size-full wp-image-6341" src="https://static.chotot.com/storage/trogiup/2021/03/Mẹ-và-bé.png" alt="" width="61" height="53"></td>
+<td style="width: 751px; height: 55px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mẹ và bé&quot;}"><strong>Mẹ và bé</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mẹ và bé (Máy hút sữa, quần áo bà bầu, xe tập đi, quần áo cho bé, đồ chơi cho bé, …)&quot;}">Mẹ và bé <em>(Máy hút sữa, quần áo bà bầu, xe tập đi, quần áo cho bé, đồ chơi cho bé, …)</em></td>
+</tr>
+<tr style="height: 58px;">
+<td style="width: 57px; height: 58px;"><img loading="lazy" class="alignnone size-full wp-image-6344" src="https://static.chotot.com/storage/trogiup/2021/03/Tủ-lạnh-máy-lạnh-máy-giặt.png" alt="" width="64" height="59"></td>
+<td style="width: 751px; height: 58px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tủ lạnh, Máy lạnh, Máy giặt&quot;}"><strong>Tủ lạnh, Máy lạnh, Máy giặt</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Máy giặt, Tủ lạnh (Tủ đông)&quot;}">Máy giặt, Tủ lạnh (M<em>áy sấy quần áo, Tủ đông, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Máy lạnh, điều hoà (Máy lọc không khí, ...)&quot;}">Máy lạnh, điều hoà <em>(Máy lọc không khí, …)</em></td>
+</tr>
+<tr style="height: 52px;">
+<td style="width: 57px; height: 52px;"><img loading="lazy" class="alignnone size-full wp-image-6339" src="https://static.chotot.com/storage/trogiup/2021/03/Đồ-điện-tử.png" alt="" width="54" height="45"></td>
+<td style="width: 751px; height: 52px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ điện tử&quot;}"><strong>Đồ điện tử</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Điện thoại | Máy ảnh, Máy quay &quot;}">Điện thoại | Máy ảnh, Máy quay</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Laptop | Máy tính bảng | Máy tính để bàn&quot;}">Laptop | Máy tính bảng | Máy tính để bàn</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Linh kiện (RAM, Card, Bo mạch chủ – Mainboard, Màn hình điện thoại, Ổ cứng máy tính, …)&quot;}">Linh kiện <em>(RAM, Card, Bo mạch chủ – Mainboard, Màn hình điện thoại, Ổ cứng máy tính, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Phụ kiện (Màn hình, Chuột, Bao da, Dây cáp sạc, Sạc dự phòng, …)&quot;}">Phụ kiện <em>(Màn hình, Chuột, Bao da, Dây cáp sạc, Sạc dự phòng, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thiết bị đeo thông minh (Đồng hồ/Vòng tay thông minh, Kính thực tế ảo, ...)&quot;}">Thiết bị đeo thông minh <em>(Đồng hồ/Vòng tay thông minh, Kính thực tế ảo, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tivi, Âm thanh (Loa, Tai nghe, Micro, …)&quot;}">Tivi, Âm thanh <em>(Loa, Tai nghe, Micro, …)</em></td>
+</tr>
+<tr style="height: 53px;">
+<td style="width: 57px; height: 53px;"><img loading="lazy" class="alignnone size-full wp-image-6346" src="https://static.chotot.com/storage/trogiup/2021/03/Xe-cộ.png" alt="" width="51" height="46"></td>
+<td style="width: 751px; height: 53px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Xe cộ&quot;}"><strong>Xe cộ</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ô tô | Xe đạp | Xe điện | Xe máy | Xe tải, xe ben | Phương tiện khác&quot;}">Ô tô | Xe đạp | Xe điện | Xe máy | Xe tải, xe ben | Phương tiện khác</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Phụ tùng xe (Nón bảo hiểm, kính hậu, ...)&quot;}">Phụ tùng xe <em>(Nón bảo hiểm, kính hậu, …)</em></td>
+</tr>
+<tr style="height: 61px;">
+<td style="width: 57px; height: 61px;"><img loading="lazy" class="alignnone size-full wp-image-6336" src="https://static.chotot.com/storage/trogiup/2021/03/Bất-động-sản.png" alt="" width="60" height="58"></td>
+<td style="width: 751px; height: 61px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bất động sản&quot;}"><strong>Bất động sản</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Căn hộ | Nhà | Đất&quot;}">Căn hộ | Nhà | Đất | Phòng trọ <em>(Cho thuê phòng, share phòng, …)</em></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Phòng trọ | Văn phòng mặt bằng&quot;}">Văn phòng mặt bằng <em>(Cửa hàng, khách sạn, nhà xưởng, kho, …)</em></td>
+</tr>
+<tr style="height: 52px;">
+<td style="width: 57px; height: 52px;"><img loading="lazy" class="alignnone size-full wp-image-6345" src="https://static.chotot.com/storage/trogiup/2021/03/Việc-làm.png" alt="" width="59" height="48"></td>
+<td style="width: 751px; height: 52px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Việc làm&quot;}"><strong>Việc làm</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Danh sách người tìm việc | Danh sách việc làm&quot;}">Danh sách người tìm việc | Danh sách việc làm</td>
+</tr>
+<tr style="height: 60px;">
+<td style="width: 57px; height: 60px;"><img loading="lazy" class="alignnone size-full wp-image-6338" src="https://static.chotot.com/storage/trogiup/2021/03/Đồ-ăn-thực-phẩm-và-các-loại-khác.png" alt="" width="61" height="58"></td>
+<td style="width: 751px; height: 60px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ ăn, thực phẩm và các loại khác&quot;}"><strong>Đồ ăn, thực phẩm và các loại khác</strong></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 57px; height: 24px;"></td>
+<td style="width: 751px; height: 24px;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Đồ ăn, thực phẩm và các loại khác (thực phẩm khô, tươi sống, ...)&quot;}">Đồ ăn, thực phẩm và các loại khác <em>(Thực phẩm khô, tươi sống, …)</em></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><a href="//www.chotot.com/dangtin?utm_source=help_page&amp;utm_medium=seller_guide&amp;utm_campaign=cate_subcate_summarize"><img loading="lazy" class="alignnone size-full wp-image-6205" src="https://static.chotot.com/storage/trogiup/2020/07/post_ad_button.png" alt="" width="400" height="72" srcset="https://static.chotot.com/storage/trogiup/2020/07/post_ad_button.png 400w, https://static.chotot.com/storage/trogiup/2020/07/post_ad_button-300x54.png 300w, https://static.chotot.com/storage/trogiup/2020/07/post_ad_button-280x50.png 280w" sizes="(max-width: 400px) 100vw, 400px"></a></p>
+                ', N'Các chuyên mục đăng tin trên Chợ Tốt', N'Trong giai đoạn hiện tại, Chợ Tốt đang chọn lọc một số cửa hàng, doanh nghiệp đạt tiêu chuẩn để tham gia chương trình.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (6, N'
+                <h4><b>1. Đối Tác Chợ Tốt là gì?</b></h4>
+<p><span style="font-weight: 400;">Đối Tác Chợ Tốt là những cửa hàng, doanh nghiệp đã ký cam kết đảm bảo chất lượng sản phẩm và dịch vụ chăm sóc khách hàng với Chợ Tốt.</span></p>
+<p><span style="font-weight: 400;">Các cửa hàng, doanh nghiệp thuộc chương trình “Đối Tác Chợ Tốt” sẽ được gắn nhãn “ĐỐI TÁC” trên giao diện tin đăng và trong cửa hàng như hình minh họa bên dưới: </span></p>
+<table style="border-collapse: collapse; margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td style="width: 250px;"><img class="alignnone size-full wp-image-6653" src="https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1.png" alt="" width="100%" height="auto" srcset="https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1.png 1242w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1-139x300.png 139w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1-768x1662.png 768w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1-710x1536.png 710w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1-946x2048.png 946w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_1-203x440.png 203w" sizes="(max-width: 1242px) 100vw, 1242px"></td>
+<td style="width: 5px;"></td>
+<td style="width: 250px;"><img loading="lazy" class="alignnone size-full wp-image-6654" src="https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2.png" alt="" width="100%" height="auto" srcset="https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2.png 1242w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2-139x300.png 139w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2-768x1662.png 768w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2-710x1536.png 710w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2-946x2048.png 946w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_2-203x440.png 203w" sizes="(max-width: 1242px) 100vw, 1242px"></td>
+<td style="width: 5px;"></td>
+<td style="width: 250px;"><img loading="lazy" class="alignnone wp-image-6655 size-full" src="https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3.png" alt="" width="1125" height="2436" srcset="https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3.png 1125w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3-139x300.png 139w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3-768x1663.png 768w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3-709x1536.png 709w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3-946x2048.png 946w, https://static.chotot.com/storage/trogiup/2021/08/ELT-Trusted-Seller_3-203x440.png 203w" sizes="(max-width: 1125px) 100vw, 1125px"></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 284px;"><span style="color: #0000ff;"><strong>Trang mua bán Chợ Tốt</strong></span></td>
+<td style="width: 50px; text-align: center;"><span style="color: #0000ff;"><strong>&nbsp;</strong></span></td>
+<td style="text-align: center; width: 226px;"><span style="color: #0000ff;"><strong>Trang chi tiết tin đăng</strong></span></td>
+<td style="text-align: center; width: 50px;"><span style="color: #0000ff;"><strong>&nbsp;</strong></span></td>
+<td style="text-align: center; width: 89px;"><span style="color: #0000ff;"><strong>Trang Cửa hàng&nbsp;</strong></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4><b>2. Những sản phẩm, dịch vụ từ Đối Tác Chợ Tốt có gì khác biệt?</b></h4>
+<p><span style="font-weight: 400;">Đối Tác Chợ Tốt ở tất cả các chuyên mục đều đảm bảo:</span></p>
+<div class="su-accordion su-u-trim">
+<p><span style="font-weight: 400;"></span></p><div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-caret su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>Cam kết hàng hoá, dịch vụ xác thực đúng như mô tả trên tin đăng</div><div class="su-spoiler-content su-u-clearfix su-u-trim"><p></p>
+<p><span style="font-weight: 400;">Đối Tác đảm bảo mô tả tin đăng đúng và đủ thông tin như thỏa thuận hợp tác tham gia chương trình “Đối tác Chợ Tốt”. Sản phẩm, dịch vụ từ Đối Tác đảm bảo đáp ứng đúng tiêu chuẩn, chất lượng đăng bán.</span></p>
+</div></div>
+<p><span style="font-weight: 400;"></span></p><div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-caret su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>Cam kết các tiêu chuẩn về hàng hoá và dịch vụ theo từng chuyên mục</div><div class="su-spoiler-content su-u-clearfix su-u-trim"><p></p>
+<table style="width: 90%; border-collapse: collapse;" border="1" align="center">
+<tbody>
+<tr style="height: 48px;">
+<td style="height: 48px; text-align: center;"><b>CHUYÊN MỤC</b></td>
+<td style="height: 48px; text-align: center;"><b>TIÊU CHUẨN HÀNG HÓA, DỊCH VỤ</b></td>
+</tr>
+<tr style="height: 80px;">
+<td style="height: 80px; text-align: center;"><strong>Bất Động Sản</strong></td>
+<td style="height: 80px;">
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Cam kết xác thực thông tin cá nhân Môi giới.</span></span>
+	<a class="paoc-popup-click paoc-popup-cust-6684 paoc-popup-simple_link paoc-popup-link" href="javascript:void(0);">Tìm hiểu thêm.</a>
+
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cam kết đảm bảo tư vấn nhiệt tình, chuyên nghiệp cho người mua.</span></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 150px;">
+<td style="height: 150px; text-align: center;"><strong>Xe cộ</strong></td>
+<td style="height: 150px;">
+<ul>
+<li><b>Xe thật giá thật: </b><span style="font-weight: 400;">Tin đăng xe ở Chợ Tốt Xe đúng với tình trạng thực tế với giá trên Chợ Tốt Xe là giá bán thực tế, bảo đảm khách hàng Chợ Tốt Xe tới xem xe sẽ có xe và giá đúng với tin đăng.</span></li>
+<li><b>Sang tên thoải mái: </b><span style="font-weight: 400;">Xe không gặp vấn đề về pháp lý sang tên.</span></li>
+<li><b>Người bán xác thực: </b><span style="font-weight: 400;">Cửa hàng Đối Tác có giấy phép kinh doanh và có địa chỉ rõ ràng.</span></li>
+<li><b>Chính sách bán hàng: </b><span style="font-weight: 400;">Cho phép người mua hay thợ máy kiểm tra xe. Khi phát hiện lỗi xe không giống cam kết ban đầu hoặc không sang tên được thì người bán nhận lại xe và hoàn tiền lại cho người mua.</span></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 80px;">
+<td style="height: 80px; text-align: center;"><strong>Đồ Điện Tử</strong></td>
+<td style="height: 80px;">
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Cam kết bảo hành từ 3 tháng trở lên.</span></span>
+	<a class="paoc-popup-click paoc-popup-cust-6687 paoc-popup-simple_link paoc-popup-link" href="javascript:void(0);">Tìm hiểu thêm.</a>
+
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Cam kết hỗ trợ đổi trả trong 7 ngày.</span></span>
+	<a class="paoc-popup-click paoc-popup-cust-6688 paoc-popup-simple_link paoc-popup-link" href="javascript:void(0);">Tìm hiểu thêm.</a>
+
+</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 56px;">
+<td style="height: 56px; text-align: center;"><strong>Việc Làm</strong></td>
+<td style="height: 56px;">
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cam kết phản hồi cho ứng viên trong 7 ngày sau khi nộp đơn.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<p><span style="font-weight: 400;"></span></p><div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-caret su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>Chợ Tốt hỗ trợ giải quyết khiếu nại khi có mâu thuẫn, khiếu nại phát sinh</div><div class="su-spoiler-content su-u-clearfix su-u-trim"><p></p>
+<p><span style="font-weight: 400;">Nhằm giúp việc giải quyết khiếu nại được nhanh chóng và hiệu quả, người mua cần đảm bảo những cam kết về dịch vụ đảm bảo và hậu mãi sau bán hàng mà người bán trao đổi với bạn được ghi nhận đầy đủ trên hợp đồng mua bán (đối với chuyên mục Đồ Điện Tử, Xe Cộ) hay các thông tin về nội dung công việc, mức lương và chế độ việc làm được ghi nhận trên hợp đồng lao động. Chợ Tốt sẽ căn cứ vào giấy tờ thông tin thiết bị, hợp đồng mua bán, hợp đồng lao động để hỗ trợ giải quyết những vấn đề phát sinh sau khi mua của bạn.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Mọi thắc mắc cần hỗ trợ tư vấn hoặc giải quyết khiếu nại liên quan Đối Tác Chợ Tốt, hãy thông báo cho bộ phận tiếp nhận qua Hotline (028) 38 666 678 hoặc gửi email về trogiup@chotot.vn.</span></p>
+<p><b>Lưu ý</b><span style="font-weight: 400;">: Số Hotline trên chỉ hỗ trợ các vấn đề liên quan Đối Tác Chợ Tốt, nếu bạn cần hỗ trợ các vấn đề khác, vui lòng liên hệ:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hotline: 19003003. Thời gian làm việc: Từ 8-12h và 13-17h, thứ 2 đến thứ 6 hàng tuần.</span></li>
+<li style="font-weight: 400;" aria-level="1">Email: <a href="mailto:trogiup@chotot.vn">trogiup@chotot.vn</a></li>
+<li aria-level="1"><span style="font-weight: 400;">Chat trực tuyến: </span><a href="//trogiup.chotot.com/lien-he/"><span style="font-weight: 400;">trogiup.chotot.com/lien-he/</span></a></li>
+</ul>
+<p><span style="font-weight: 400;"></span></p></div></div><p></p>
+</div>
+<h4><b>3. Dành cho các cửa hàng, doanh nghiệp muốn tham gia chương trình Đối Tác Chợ Tốt</b></h4>
+<p><span style="font-weight: 400;">Trong giai đoạn hiện tại, Chợ Tốt đang chọn lọc một số cửa hàng, doanh nghiệp đạt tiêu chuẩn để tham gia chương trình.</span></p>
+<p><span style="font-weight: 400;">Nếu bạn quan tâm đến chương trình “Đối Tác Chợ Tốt”, vui lòng để lại thông tin theo link bên dưới để Chợ Tốt ưu tiên gửi thông báo đến bạn khi chúng tôi mở rộng quy mô chương trình.</span></p>
+<p><span style="font-weight: 400;">Link để lại thông tin: </span><a href="//forms.gle/fMpSo9zWsv5ruL5f7"><span style="font-weight: 400;">forms.gle/eS2V3TgJ8QAkdDBo6</span></a></p>
+                ', N'Đối Tác Chợ Tốt', N'Để tin đăng xe có thể nổi bật, hiệu quả và thu hút người mua giữa hàng ngàn tin đăng khác ở Chợ Tốt là 1 điều không hề đơn giản. Thấu hiểu mong muốn của người dùng, Chợ Tốt sẽ chỉ cho bạn mẹo đăng tin rao bán xe hiệu quả nhất.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (6, N'
+                <p><span style="font-weight: 400;">Xem Giá Thị Trường</span><span style="font-weight: 400;"> ra đời nhằm cung cấp thông tin định giá thực tế của <strong>1 số mẫu xe Ô tô đã qua sử dụng</strong> ở thời điểm hiện tại, giúp người mua có thể dễ dàng đánh giá và chọn lựa được chiếc xe ưng ý với mức giá phù hợp.</span></p>
+<p><span style="font-weight: 400;">Tính năng sử dụng trí thông minh nhân tạo và mô hình máy học để liên tục thu thập, phân tích dữ liệu từ hàng vạn tin đăng và giao dịch thành công trên Chợ Tốt Xe cũng như các trang web khác.&nbsp;</span></p>
+<p><img class="alignnone wp-image-6046 size-full" src="https://static.chotot.com/storage/trogiup/2019/11/Price-Suggestiong-Introduction.png" alt="" width="1000" height="822" srcset="https://static.chotot.com/storage/trogiup/2019/11/Price-Suggestiong-Introduction.png 1000w, https://static.chotot.com/storage/trogiup/2019/11/Price-Suggestiong-Introduction-300x247.png 300w, https://static.chotot.com/storage/trogiup/2019/11/Price-Suggestiong-Introduction-768x631.png 768w, https://static.chotot.com/storage/trogiup/2019/11/Price-Suggestiong-Introduction-280x230.png 280w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
+<p><span style="font-weight: 400;"><span style="text-decoration: underline;"><strong>Lưu ý</strong></span>: Tính năng này chỉ áp dụng cho <strong>1 số dòng xe (model) Ô tô đã qua sử dụng </strong>và hiển thị trên <strong>ứng dụng Chợ Tốt trên hệ điều hành Android</strong>.</span></p>
+<p><span style="font-weight: 400;">Người dùng có thể trải nghiệm tính năng này tại:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Giao diện xem nội dung tin đăng:</span></li>
+</ul>
+<p><img loading="lazy" class="alignnone wp-image-6047 size-full" src="https://static.chotot.com/storage/trogiup/2019/11/price_suggestion_adview.png" alt="" width="360" height="622" srcset="https://static.chotot.com/storage/trogiup/2019/11/price_suggestion_adview.png 360w, https://static.chotot.com/storage/trogiup/2019/11/price_suggestion_adview-174x300.png 174w, https://static.chotot.com/storage/trogiup/2019/11/price_suggestion_adview-255x440.png 255w" sizes="(max-width: 360px) 100vw, 360px"></p>
+<ul>
+<li><span style="font-weight: 400;">Giao diện trang mua bán Chợ Tốt Xe cho chuyên mục Ô tô:</span></li>
+</ul>
+<p><img loading="lazy" class="alignnone  wp-image-6251" src="https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574.png" alt="" width="869" height="736" srcset="https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574.png 1688w, https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574-300x254.png 300w, https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574-1024x867.png 1024w, https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574-768x651.png 768w, https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574-1536x1301.png 1536w, https://static.chotot.com/storage/trogiup/2019/11/car_price_suggestion_listing-e1603947375574-280x237.png 280w" sizes="(max-width: 869px) 100vw, 869px"></p>
+<p>&nbsp;</p>
+                ', N'Tính năng Xem Giá Thị Trường được tính toán như thế nào?', N'Chụp tổng thể chiếc xe, trước, sau, mặt bên, bánh xe, lốp xe, động cơ, yên ghế, và đồng hồ đo để người mua tiềm năng có thể đọc được số km mà xe đã chạy.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (4, N'
+                <p>Cài đặt ứng dụng Chợ Tốt miễn phí để có trải nghiệm tuyệt vời hơn khi sử dụng dịch vụ Chợ Tốt bạn nhé!</p>
+<p>Để tải ứng dụng Chợ Tốt rất đơn giản, bạn chỉ cần dùng thiết bị điện thoại hoặc máy tính bảng và nhấn vào đường dẫn theo từng hệ điều hành tương ứng:</p>
+<ul>
+<li><a href="//play.google.com/store/apps/details?id=com.chotot.vn&amp;hl=vi">Hệ điều hành Android</a>: Dành cho các thiết bị chạy hệ điều hành Android như Samsung, Oppo, …</li>
+<li><a href="//itunes.apple.com/vn/app/ch%E1%BB%A3-t%E1%BB%91t-chuy%C3%AAn-mua-b%C3%A1n-online/id790034666?l=vi&amp;mt=8">Hệ điều hành iOS</a>: Dành cho các thiết bị chạy hệ điều hành iOS như Iphone, Ipad.</li>
+</ul>
+<p><strong>TẢI NGAY, CHỜ CHI!</strong></p>
+<map id="downloadmap" name="downloadmap">
+<area title="" alt="" coords="344,331,460,331,460,369,343,369" shape="poly" href="//itunes.apple.com/app/apple-store/id790034666?pt=70295800&amp;ct=chotot-more-menu&amp;mt=8" target="_blank">
+<area title="" alt="" coords="478,333,594,331,596,371,479,371" shape="poly" href="//play.google.com/store/apps/details?id=com.chotot.vn&amp;hl=vi&amp;rdid=com.chotot.vn&amp;pli=1&amp;referrer=utm_source%3DChotot-more-menu%2520%26utm_medium%3DChotot-more-menu%2520%26utm_term%3DChotot-more-menu%2520%26utm_campaign%3DChotot-more-menu%2520" target="_blank"> </map>
+                ', N'Trải nghiệm tuyệt vời hơn với ứng dụng Chợ Tốt trên Android và iOS', N'Chụp tổng thể chiếc xe, trước, sau, mặt bên, bánh xe, lốp xe, động cơ, yên ghế, và đồng hồ đo để người mua tiềm năng có thể đọc được số km mà xe đã chạy.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <div class="su-quote su-quote-style-default"><div class="su-quote-inner su-u-clearfix su-u-trim">
+<p><span style="font-weight: 400;">Đối với các đơn hàng thanh toán bằng thẻ ngân hàng nội địa ATM/ thẻ thanh toán quốc tế, thanh toán tại các điểm giao dịch, chuyển khoản qua tài khoản ngân hàng, hoặc thanh toán bằng ví điện tử Momo/Zalopay, giá thanh toán là giá đã bao gồm thuế giá trị gia tăng (GTGT). Vì vậy, Khách hàng có thể yêu cầu xuất hoá đơn GTGT cho các đơn hàng này.</span></p>
+<p><b>LƯU Ý: </b><span style="font-weight: 400;">Yêu cầu xuất hóa đơn GTGT chỉ có thể thực hiện </span><b>ngay trong ngày</b><span style="font-weight: 400;"> khách hàng thực hiện thanh toán thành công cho đơn hàng.</span></p>
+</div></div>
+<p><span style="font-weight: 400;">Khách hàng có thể chủ động yêu cầu xuất hóa đơn GTGT trực tiếp trên trang Chợ Tốt theo 1 trong 2 cách sau:</span></p>
+<div class="su-accordion su-u-trim"></div>
+<div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-caret su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>CÁCH 1: YÊU CẦU XUẤT HÓA ĐƠN NGAY TẠI THỜI ĐIỂM THANH TOÁN</div><div class="su-spoiler-content su-u-clearfix su-u-trim">
+<p><span style="font-weight: 400;"><strong>Lưu ý</strong>: Cách thức này KHÔNG áp dụng cho các </span><span style="font-weight: 400;">đơn hàng </span><b>Nạp Đồng Tốt</b><span style="font-weight: 400;"> được thanh toán qua phương thức </span><b>Apple ID</b><span style="font-weight: 400;">, </span><b>Tại điểm giao dịch bằng số điện thoại</b><span style="font-weight: 400;"> hoặc </span><b>Nạp trực tiếp trên ứng dụng ví Momo</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Khi thực hiện các thao tác thanh toán trên Chợ Tốt, nếu khách hàng có nhu cầu xuất hóa đơn cho đơn hàng, vui lòng nhấn vào nút “Yêu cầu xuất hóa đơn GTGT cho đơn hàng này” và điền thông tin cần thiết (như ảnh bên dưới), hệ thống sẽ xuất hóa đơn điện tử và gửi đến khách hàng qua email trong vòng 24 giờ sau khi đơn hàng được hoàn tất thanh toán.</span></p>
+<p><img class="alignnone size-full wp-image-7106" src="https://static.chotot.com/storage/trogiup/2015/10/invoice.png" alt="" width="965" height="600" srcset="https://static.chotot.com/storage/trogiup/2015/10/invoice.png 965w, https://static.chotot.com/storage/trogiup/2015/10/invoice-300x187.png 300w, https://static.chotot.com/storage/trogiup/2015/10/invoice-768x478.png 768w, https://static.chotot.com/storage/trogiup/2015/10/invoice-280x174.png 280w" sizes="(max-width: 965px) 100vw, 965px"></p>
+</div></div>
+<div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-caret su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>CÁCH 2: YÊU CẦU XUẤT HÓA ĐƠN SAU KHI THANH TOÁN THÀNH CÔNG ĐƠN HÀNG</div><div class="su-spoiler-content su-u-clearfix su-u-trim"><span style="font-weight: 400;">Lưu ý: Cách thức này chỉ áp dụng cho các đơn hàng thanh toán thành công </span><b>từ ngày 01/06/2022</b><span style="font-weight: 400;"> và có trạng thái </span><b>Chưa xuất HĐ</b><span style="font-weight: 400;"> tại trang “Lịch sử giao dịch”.</span><p></p>
+<ul>
+<li><span style="font-weight: 400;"><strong>Bước 1</strong>: Mở trình duyệt, vào </span><a href="//www.chotot.com/"><span style="font-weight: 400;">www.chotot.com</span></a><span style="font-weight: 400;"> và đăng nhập vào tài khoản Chợ Tốt. Chọn </span><b>Lịch sử giao dịch</b></li>
+</ul>
+<p><img loading="lazy" class="alignnone size-full wp-image-6865" src="https://static.chotot.com/storage/trogiup/2022/05/login.png" alt="" width="925" height="769" srcset="https://static.chotot.com/storage/trogiup/2022/05/login.png 925w, https://static.chotot.com/storage/trogiup/2022/05/login-300x249.png 300w, https://static.chotot.com/storage/trogiup/2022/05/login-768x638.png 768w, https://static.chotot.com/storage/trogiup/2022/05/login-280x233.png 280w" sizes="(max-width: 925px) 100vw, 925px"></p>
+<p>&nbsp;</p>
+<ul>
+<li><span style="font-weight: 400;"><strong>Bước 2</strong>: Nhấp chọn </span><b>Mã Hàng </b><span style="font-weight: 400;">của đơn hàng có trạng thái </span><b>Chưa xuất HĐ</b></li>
+</ul>
+<p><img loading="lazy" class="alignnone size-full wp-image-6863" src="https://static.chotot.com/storage/trogiup/2022/05/choose-order.png" alt="" width="772" height="575" srcset="https://static.chotot.com/storage/trogiup/2022/05/choose-order.png 772w, https://static.chotot.com/storage/trogiup/2022/05/choose-order-300x223.png 300w, https://static.chotot.com/storage/trogiup/2022/05/choose-order-768x572.png 768w, https://static.chotot.com/storage/trogiup/2022/05/choose-order-260x195.png 260w, https://static.chotot.com/storage/trogiup/2022/05/choose-order-280x209.png 280w" sizes="(max-width: 772px) 100vw, 772px"></p>
+<p style="padding-left: 40px;"></p><div class="su-note" style="border-color:#e5e5e5;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;"><div class="su-note-inner su-u-clearfix su-u-trim" style="background-color:#FFFFFF;border-color:#ffffff;color:#333333;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;">
+<p style="padding-left: 40px;"><b>Các trạng thái xuất hóa đơn của đơn hàng:</b></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Chưa xuất hoá đơn</strong>:</span><span style="font-weight: 400;"> Có thể thực hiện thao tác yêu cầu xuất hoá đơn.</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;"><strong>Không hỗ trợ</strong>:</span><span style="font-weight: 400;"> Không xuất hoá đơn cho đơn hàng do không thuộc trường hợp có hỗ trợ hoá đơn bao gồm:</span>
+<ul>
+<li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Đơn hàng huỷ Đồng Tốt được xác nhận bởi Khách hàng</span></li>
+<li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Đơn hàng Nạp Đồng Tốt thanh toán bằng Apple ID</span></li>
+<li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">Đơn hàng mua dịch vụ (Phí đăng tin, Đẩy tin, Tin nổi bật,…)&nbsp; thanh toán bằng Đồng Tốt (do hoá đơn đã được xuất khi Khách hàng thanh toán cho đơn hàng nạp Đồng Tốt)</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;"><strong>Quá hạn</strong>:</span><span style="font-weight: 400;"> Đơn hàng không có yêu cầu xuất hoá đơn trong thời gian hỗ trợ xuất hóa đơn và đã qua khỏi ngày thực hiện thanh toán thành công nên không được yêu cầu hoá đơn.</span></li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;"></p></div></div>
+<p>&nbsp;</p>
+<ul>
+<li><span style="font-weight: 400;"><strong>Bước 3</strong>: Điền đầy đủ thông tin theo yêu cầu, sau đó nhấn nút XUẤT HÓA ĐƠN.</span></li>
+</ul>
+<p><img loading="lazy" class="alignnone size-full wp-image-6864" src="https://static.chotot.com/storage/trogiup/2022/05/fill-info.png" alt="" width="640" height="849" srcset="https://static.chotot.com/storage/trogiup/2022/05/fill-info.png 640w, https://static.chotot.com/storage/trogiup/2022/05/fill-info-226x300.png 226w, https://static.chotot.com/storage/trogiup/2022/05/fill-info-280x371.png 280w" sizes="(max-width: 640px) 100vw, 640px"></p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Bước 4</strong>: Nhận kết quả trạng thái của yêu cầu xuất hoá đơn</li>
+</ul>
+<p><img loading="lazy" class="alignnone size-full wp-image-6866" src="https://static.chotot.com/storage/trogiup/2022/05/request-result.png" alt="" width="706" height="539" srcset="https://static.chotot.com/storage/trogiup/2022/05/request-result.png 706w, https://static.chotot.com/storage/trogiup/2022/05/request-result-300x229.png 300w, https://static.chotot.com/storage/trogiup/2022/05/request-result-280x214.png 280w" sizes="(max-width: 706px) 100vw, 706px"></p>
+<p><span style="font-weight: 400;">Đơn hàng sau khi được yêu cầu xuất hoá đơn sẽ được ghi nhận dưới trạng thái Đã xuất HĐ, hệ thống sẽ gửi hoá đơn đến địa chỉ email mà Khách hàng đã nhập ở Bước 3 trong vòng 24 giờ kể từ thời điểm Khách hàng gửi yêu cầu đề nghị xuất hoá đơn.</span></p>
+</div></div>
+<div class="su-box su-box-style-soft" id="" style="border-color:#005e00;border-radius:3px"><div class="su-box-title" style="background-color:#179128;color:#FFFFFF;border-top-left-radius:1px;border-top-right-radius:1px">LƯU Ý</div><div class="su-box-content su-u-clearfix su-u-trim" style="border-bottom-left-radius:1px;border-bottom-right-radius:1px">
+<p><span style="font-weight: 400;">– Chỉ hỗ trợ xuất hóa đơn cho các giao dịch thanh toán bằng thẻ ngân hàng nội địa ATM/ thẻ thanh toán quốc tế, thanh toán tại các điểm giao dịch, chuyển khoản qua tài khoản ngân hàng, hoặc thanh toán bằng ví điện tử Momo/Zalopay.</span></p>
+<p><span style="font-weight: 400;">– Chỉ hỗ trợ xuất hóa đơn điện tử cho khách hàng có yêu cầu hóa đơn (tại thời điểm thanh toán hoặc trong cùng ngày) đối với đơn hàng mua Đồng Tốt hoặc mua dịch vụ thông qua các phương thức thanh toán đề cập bên trên.</span></p>
+<p><span style="font-weight: 400;">– Hoá đơn điện tử sẽ được gửi đến địa chỉ email khách hàng trong vòng 24 giờ kể từ thời điểm khách hàng cung cấp thông tin yêu cầu xuất hoá đơn và thanh toán thành công cho giao dịch phát sinh.</span></p>
+<p><span style="font-weight: 400;">– ​​Khách hàng sẽ nhận được hóa đơn điện tử được gửi từ email </span><span style="font-weight: 400;">chotot.einvoice@chotot.vn</span><span style="font-weight: 400;"> với tiêu đề “Hóa đơn điện tử số [Số hóa đơn] được gửi từ Công ty TNHH Chợ Tốt – MST 0312120782”.</span></p>
+<p><span style="font-weight: 400;">– Thông tin xuất hóa đơn cần đảm bảo chính xác </span><b>theo các thông tin mà khách hàng đã đăng ký với cơ quan thuế.</b><span style="font-weight: 400;"> Các yêu cầu chỉnh sửa thông tin trên hoá đơn hoặc khiếu nại về sau sẽ không được giải quyết.</span></p>
+</div></div>
+                ', N'Hướng dẫn Yêu cầu xuất hóa đơn GTGT cho các giao dịch mua hàng trên Chợ Tốt', N'Với mục tiêu tạo niềm tin với khách mua xe và đề cao chữ Tín trong việc bán xe trực tuyến, Chợ Tốt ra mắt chương trình Đối Tác Chợ Tốt Xe.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <h3 style="text-align: center;">KIỂM DUYỆT TIN ĐỂ MUA BÁN HIỆU QUẢ</h3>
+<table class=" aligncenter" style="width: 100%;" cellspacing="0" cellpadding="30px">
+<tbody>
+<tr>
+<td style="padding: 20px; text-align: center; vertical-align: top;"><img class="  wp-image-1073 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/21.png" alt="2" width="90" height="90"><p></p>
+<h4>Nâng cao chất lượng tin đăng</h4>
+<p>Kiểm duyệt tin giúp tin đăng đảm bảo đầy đủ thông tin, hình ảnh, giúp người mua dễ lựa chọn hơn.</p></td>
+<td style="padding: 20px; text-align: center; vertical-align: top;"><img loading="lazy" class="  wp-image-1072 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/11.png" alt="1" width="90" height="90"><p></p>
+<h4>Tìm sản phẩm dễ dàng hơn</h4>
+<p>Tin được kiểm tra và sắp xếp vào đúng chuyên mục để người mua tìm sản phẩm dễ dàng, nhanh chóng.</p></td>
+<td style="padding: 20px; text-align: center; vertical-align: top;"><img loading="lazy" class="  wp-image-1074 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/31.png" alt="3" width="90" height="90"><p></p>
+<h4>Loại bỏ tin rác, tin trùng lặp</h4>
+<p>Kiểm duyệt tin giúp loại bỏ tin rác, tin bị trùng lặp, giúp người mua tìm được sản phẩm nhanh hơn.</p></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3></h3>
+<h3 style="text-align: center;">KIỂM DUYỆT TIN ĐỂ MUA BÁN&nbsp;AN TOÀN</h3>
+<table style="width: 100%;" cellspacing="0" cellpadding="30px">
+<tbody>
+<tr>
+<td style="width: 50%; padding: 20px; vertical-align: top;">
+<h4 style="text-align: center;"><img loading="lazy" width="74" height="74" class="wp-image-1035 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/giam-lua-dao.png" alt="giam-lua-dao"></h4>
+<h4 style="text-align: center;"><span style="color: #ff8100;"><strong>Giảm thiểu các trường hợp tin lừa đảo</strong></span></h4>
+<p style="text-align: center;">Chợ Tốt xây dựng danh sách các cá nhân/tổ chức bị báo cáo lừa đảo và không cho phép họ đăng tin.</p>
+</td>
+<td style="width: 50%; padding: 20px; vertical-align: top;">
+<h4 style="text-align: center;"><img loading="lazy" width="74" height="74" class="size-full wp-image-1036 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/giam-gia-thap.png" alt="giam-gia-thap"></h4>
+<h4 style="text-align: center;"><span style="color: #ff8100;"><strong>Loại bỏ sản phẩm có giá thấp đáng ngờ</strong></span></h4>
+<p style="text-align: center;">Hạn chế những trường hợp lừa đảo bằng cách loại bỏ những tin đăng có giá thấp, bị nghi ngờ hàng giả, hàng nhái, kém chất lượng.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; padding: 20px; vertical-align: top;">
+<h4 style="text-align: center;"><img loading="lazy" width="74" height="74" class="size-full wp-image-1037 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/giam-trai-phep.png" alt="giam-trai-phep"></h4>
+<h4 style="text-align: center;"><span style="color: #ff8100;"><strong>Loại bỏ tin đăng sản phẩm cấm hoặc trái phép</strong></span></h4>
+<p style="text-align: center;">Hàng hoá/dịch vụ vi phạm pháp luật Việt Nam và không an toàn với người dùng sẽ không được đăng.</p>
+</td>
+<td style="width: 50%; padding: 20px; vertical-align: top;">
+<h4 style="text-align: center;"><img loading="lazy" width="74" height="74" class="size-full wp-image-1038 aligncenter" src="https://static.chotot.com/storage/trogiup/sites/2/giam-da-cap.png" alt="giam-da-cap"></h4>
+<h4 style="text-align: center;"><span style="color: #ff8100;"><strong>Loại bỏ tin đăng tuyển dụng đa cấp</strong></span></h4>
+<p style="text-align: center;">Chúng tôi lưu trữ thông tin về các công ty tuyển dụng đa cấp và ngăn chặn các công ty này đăng tin trên Chợ Tốt.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote><p>Khi bạn phát hiện trường hợp tin đăng không hợp lệ như lừa đảo, trùng lặp, thông tin không đúng thực tế, …&nbsp;hãy thông báo cho Chợ Tốt ngay lập tức, nhằm cùng nhau tạo ra môi trường mua bán minh bạch, an toàn cho chính bạn và cộng đồng.&nbsp;Tìm hiểu thêm <a href="//trogiup.chotot.com/mua-hang-tai-chotot-vn/mua-hang-nhu-the-nao/lam-the-nao-de-bao-cao-tin-dang/">Làm thế nào để báo cáo tin đăng?</a></p></blockquote>
+                ', N'Tại sao Chợ Tốt duyệt tin trước khi đăng?', N'Với mục tiêu tạo niềm tin với khách mua xe và đề cao chữ Tín trong việc bán xe trực tuyến, Chợ Tốt ra mắt chương trình Đối Tác Chợ Tốt Xe.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (6, N'
+                <p>Để <a href="//trogiup.chotot.com/ban-hang-tai-chotot-vn/ban-hang-nhu-the-nao/meo-rao-ban-nhanh/">tin đăng hiệu quả bán nhanh,</a> bạn cần:</p>
+<ul>
+<li>Chú ý đến <strong>các thông báo được hiển thị trong phần hướng dẫn đăng tin</strong> để điền đầy đủ các thông tin được yêu cầu.</li>
+<li><strong>Đăng hình ảnh thật</strong> của sản phẩm bạn bán.</li>
+<li>Nếu đã đăng bán mặt hàng đó trên Chợ Tốt rồi thì không đăng lại nữa. Bạn có thể sử dụng chức năng <strong><a href="//trogiup.chotot.com/ban-hang/quan-ly-tin-dang/toi-can-lam-gi-de-sua-tin-da-dang/">Sửa tin</a></strong> hoặc <strong><a href="//trogiup.chotot.com/nguoi-ban/day-tin-la-gi/">Đẩy tin</a></strong> để bán hàng nhanh hơn.</li>
+<li><strong>Miêu tả chi tiết về thông tin sản phẩm/dịch vụ</strong>.</li>
+<li>Trong <strong>ô tên không được để số điện thoại, đường dẫn web, email.</strong></li>
+<li><strong>Sử dụng tiếng việt có dấu.</strong></li>
+</ul>
+<p>Tại <strong>Chợ Tốt</strong>, chúng tôi luôn cố gắng tất cả tin đăng của khách hàng đều được kiểm duyệt với chất lượng tốt nhất. Nếu trường hợp tin đăng bị từ chối xảy ra, nguyên nhân do tin đăng của bạn vi phạm 1 trong những <strong><u><a href="//trogiup.chotot.com/quy-dinh/dang-tin/">Quy định đăng tin</a></u></strong> của chúng tôi.</p>
+<h5><strong>Các lý do thường gặp khiến tin bị từ chối:</strong></h5>
+<h5><strong><u>Trường hợp 1:</u> Tin rao trùng lặp</strong></h5>
+<ul>
+<li>Nếu bạn đã đăng 1 mặt hàng trên Chợ Tốt, toàn bộ những tin đăng bán cùng mặt hàng đó của bạn sẽ bị từ chối do trùng lặp (Kể cả trùng lặp với tin đã ẩn).</li>
+<li>Trong trường hợp bạn&nbsp;có nhiều tài khoản và dùng những tài khoản đó đăng tin giống nhau thì tin đăng vẫn bị từ chối tin trùng lặp.&nbsp;Quy định này nhằm loại bỏ các tin rác, giúp người mua tìm mặt hàng ưng ý nhanh hơn và người bán bán hàng nhanh hơn.</li>
+<li>Nếu bạn có nhiều sản phẩm cùng loại có nhiều tình trạng khác nhau, bạn có thể miêu tả nhiều tình trạng, giá tiền khác nhau của cùng 1 sản phẩm trong 1 tin đăng. Lưu ý: Nội dung tin có thể miêu tả bán nhiều sản phẩm cùng model nhưng hình ảnh phải đảm bảo có 3 hình thật, riêng biệt của 1 sản phẩm.</li>
+<li>Đối với bất động sản, tin đăng có tựa đề trùng lặp sẽ không được đăng. Mỗi dự án chỉ đăng 1 lần, tuy nhiên trong mỗi dự án bạn có thể có nhiều căn hộ, diện tích.</li>
+<li>Trong trường hợp bạn chưa bán được hàng, hãy <strong><a href="//trogiup.chotot.com/ban-hang/quan-ly-tin-dang/toi-can-lam-gi-de-sua-tin-da-dang/">Sửa tin</a></strong>&nbsp;để thu hút hơn. Bạn hãy thêm hình thật của sản phẩm, miêu tả tin chi tiết hơn, hoặc có thể cân nhắc giảm giá. Bạn cũng có thể sử dụng chức năng <strong><a href="//trogiup.chotot.com/nguoi-ban/day-tin-la-gi/">Đẩy tin</a></strong> để đăng lại tin lên trang đầu<strong>.</strong></li>
+</ul>
+<h5><strong><u>Trường hợp 2:</u> Tin rao trùng lặp với tin đã ẩn</strong></h5>
+<ul>
+<li>Sử dụng chức năng <strong><a href="//trogiup.chotot.com/ban-hang-tai-chotot-vn/quan-ly-tin-dang/hien-tin-da-an/">Hiện tin đã ẩn</a></strong> trong mục <strong>Quản lý tin đăng</strong> thay vì đăng lại tin mới trong trường hợp bạn muốn bán lại món hàng đã ẩn trước đó.</li>
+</ul>
+<h5><strong><u>Trường hợp 3:</u> Sử dụng hình tải từ trên mạng</strong></h5>
+<ul>
+<li>Tin đăng sử dụng hình tải từ trên mạng sẽ bị từ chối.</li>
+<li>Chợ Tốt yêu cầu người bán tự chụp hình mặt hàng khi đăng tin. Việc đăng hình thật thu hút các khách hàng thực sự yêu thích sản phẩm, giúp bạn bán hàng nhanh hơn.</li>
+</ul>
+<h5><strong><u>Trường hợp 4:</u> Đăng thiếu hình sản phẩm hoặc chỉnh sửa hình ảnh quá nhiều</strong></h5>
+<ul>
+<li>Khách hàng muốn xem nhiều hình trước khi quyết định mua hàng, do đó hãy đăng ít nhất 5-6 hình thật của sản phẩm.</li>
+<li>Hình đạt yêu cầu là hình rõ, đẹp, <strong>chụp từ sản phẩm bạn đang bán</strong>.</li>
+<li>Các hình chỉnh sửa quá nhiều, dễ gây hiểu nhầm cho người mua về tình trạng thật của sản phẩm sẽ bị từ chối.</li>
+<li>Không thêm chữ, địa chỉ website, logo, số điện thoại trên hình.</li>
+<li>Không sử dụng hình nghiêng, không đúng chiều, hình được ghép từ nhiều hình khác nhau</li>
+</ul>
+<h5><strong><u>Trường hợp 5:</u> Thiếu thông tin chi tiết khi miêu tả sản phẩm</strong></h5>
+<p>Nếu tin đăng của bạn có quá ít thông tin, người mua sẽ không liên lạc với bạn để mua hàng. Đó là lý do tại sao Chợ Tốt chỉ cho phép tin có miêu tả đầy đủ sản phẩm được đăng.</p>
+<p>Một số thông tin người mua muốn biết khi mua hàng như sau:</p>
+<ul>
+<li>Xuất xứ, hãng sản xuất, model (đặc biệt đối với: đồ điện tử, xe cộ)</li>
+<li>Kích cỡ, chất liệu (đối với: quần áo, đồ thời trang)</li>
+<li>Diện tích, địa chỉ, tình trạng sở hữu(đối với: bất động sản)</li>
+<li>Bạn đã sử dụng mặt hàng được bao lâu &amp; tình trạng hiện tại của mặt hàng (còn xài tốt không, ngoại hình có trầy xước không, có hư hỏng gì không).</li>
+<li>Lý do tại sao bạn bán mặt hàng đó.</li>
+<li>Mặt hàng còn bảo hành không và có phụ kiện đi kèm không.</li>
+</ul>
+<p>Ngoài ra, bạn có thể tham khảo <strong><a href="//trogiup.chotot.com/quy-dinh/hang-hoa-khong-duoc-ban/">Quy định về Hàng hoá/Dịch vụ</a></strong> để tránh các mặt hàng, dịch vụ nhạy cảm, hoặc bất hợp pháp trước khi đăng tin.</p>
+<p>Để biết về toàn bộ những lý do tin đăng có thể bị từ chối, bạn vui lòng tham khảo tại <strong><a href="//trogiup.chotot.com/quy-dinh/dang-tin/">Quy định đăng tin</a>.&nbsp;</strong></p>
+<p>Để biết cách xử lý khi tin bị từ chối, bạn vui lòng tham khảo&nbsp;<strong><a href="//trogiup.chotot.com/ban-hang/kiem-duyet-tin/toi-phai-lam-sao-khi-tin-dang-cua-toi-bi-tu-choi/">Tôi phải làm sao khi tin đăng của tôi bị từ chối?</a></strong></p>
+                ', N'Tại sao tin của tôi bị từ chối?', N'Nếu bạn quan tâm đến chương trình “Đối Tác Chợ Tốt”, vui lòng để lại thông tin theo link bên dưới để Chợ Tốt ưu tiên gửi thông báo đến bạn khi chúng tôi mở rộng quy mô chương trình.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (6, N'
+                <p>Khi <strong><u><a href="//trogiup.chotot.com/ban-hang/kiem-duyet-tin/tai-sao-tin-cua-toi-bi-tu-choi/">tin đăng bị từ chối</a></u></strong>, bạn có thể sửa tin đăng của mình bằng 1 trong 2 cách sau:</p>
+<p><strong>Cách 1</strong>: Kiểm tra hòm thư email của bạn để biết được tin đăng bị từ chối với lỗi gì và cách chỉnh sửa lại tin đăng.</p>
+<p><strong>Cách 2</strong>: Tại phần <strong>Quản lý tin đăng</strong>, bạn có thể chọn xem <strong>Lý do bị từ chối</strong> và sửa tin&nbsp;ở mục bị từ chối; tại đó sẽ có hướng dẫn lý do tin bạn bị từ chối. <span style="text-decoration: underline;">Lưu ý</span>: Một số lý do từ chối sẽ không cho phép sửa tin (nút Sửa tin sẽ hiển thị màu xám), khi đó bạn vui lòng đăng lại tin mới theo quy định của Chợ Tốt.</p>
+<p><img class="alignnone size-full wp-image-2080" src="https://static.chotot.com/storage/trogiup/sites/2/RR_on_dashboard.png" alt="RR_on_dashboard"></p>
+                ', N'Tôi phải làm gì khi tin đăng của tôi bị từ chối?', N'Chụp tổng thể chiếc xe, trước, sau, mặt bên, bánh xe, lốp xe, động cơ, yên ghế, và đồng hồ đo để người mua tiềm năng có thể đọc được số km mà xe đã chạy.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <p>Trong trường hợp tin đăng của bạn bị từ chối, vui lòng tham khảo hướng dẫn đăng lại tin theo từng lý do từ chối như bên dưới:</p>
+<h4><strong>1.&nbsp;Giá bán chưa hợp lý</strong></h4>
+<p><span style="font-weight: 400;">Chợ Tốt có quyền từ chối các tin đăng có giá bán không hợp lý. Giá bán phải được niêm yết bằng giá Việt Nam Đồng.</span> <span style="font-weight: 400;">Ngoài ra, </span><span style="font-weight: 400;">Chợ Tốt chỉ cho đăng bán sản phẩm chính hãng.</span> <span style="font-weight: 400;">Nếu sản phẩm/dịch vụ của bạn là sản phẩm chính hãng nhưng rao bán với giá thấp hơn sản phẩm/dịch vụ tương tự trên thị trường, </span><span style="font-weight: 400;">vui lòng sửa lại tin theo hướng dẫn sau:</span></p>
+<p><span style="font-weight: 400;">1. Thêm hình để chứng thực sản phẩm hàng chính hãng.</span></p>
+<p><span style="font-weight: 400;">2. Hoặc miêu tả chi tiết hơn về tình trạng sản phẩm:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Thời gian sử dụng</span></li>
+<li><span style="font-weight: 400;">Tình trạng sản phẩm</span></li>
+<li><span style="font-weight: 400;">Giá tiền lúc bạn mua</span></li>
+<li><span style="font-weight: 400;">Lý do bạn bán rẻ hơn giá thị trường</span></li>
+</ul>
+<p><span style="font-weight: 400;">Quy định về giá được đặt ra nhằm bảo đảm an toàn và hiệu quả cho cả người mua và người bán.</span></p>
+<h4><strong><a id="2" data-ps2id-target=""></a>2. Sai chuyên mục</strong></h4>
+<p><span style="font-weight: 400;">Để nâng cao chất lượng, hiệu quả của tin, đồng thời giúp người mua tìm sản phẩm của bạn dễ dàng hơn, hãy chọn đúng chuyên mục của sản phẩm mà bạn đang rao bán. </span> <span style="font-weight: 400;">Bạn có thể tham khảo các chuyên mục hiện tại của Chợ Tốt để chọn đúng chuyên mục khi đăng tin:</span></p>
+<table style="border-color: #000000; height: 1494px;" border="1">
+<tbody>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 124px; text-align: center;"><strong>CHUYÊN MỤC LỚN</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;"><strong>CHUYÊN MỤC CON</strong></td>
+<td style="height: 36px; width: 644px; text-align: center;"><strong>ĐỊNH NGHĨA</strong></td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 124px; text-align: center; height: 144px;" rowspan="5"><strong>Bất động sản</strong><strong><br>
+</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Căn hộ/Chung cư</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán, cho thuê căn hộ/chung cư:&nbsp;căn hộ thông thường, các loại căn hộ khác (như studio, penthouse, duplex, condotel, v.v.), chung cư, nhà tập thể, căn hộ dịch vụ, chung cư mini, …</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Nhà ở</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán, cho thuê cho thuê nhà:&nbsp;nhà phố, nhà hẻm, biệt thự/villa, nhà xã hội, nhà trọ, (dãy) phòng trọ, …</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Đất</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán, cho thuê đất: đất dự án, đất thổ cư, đất nông nghiệp, đất vườn, …</span></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 125px; text-align: center;"><span style="font-weight: 400;">Văn phòng, Mặt bằng kinh doanh</span></td>
+<td style="height: 54px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán, cho thuê văn phòng, mặt bằng kinh doanh hoặc sang nhượng cửa hàng (bao gồm mặt bằng văn phòng và cơ sở vật chất đã đầu tư): mặt bằng kinh doanh, cửa hàng/quán, khách sạn/nhà nghỉ, xưởng/kho, shophouse, mua bán doanh nghiệp bao gồm cả trang thiết bị kèm chuyển nhượng lại địa điểm, …</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Phòng trọ</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng cho thuê phòng hoặc share phòng trong nhà ở, căn hộ/chung cư.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 180px; width: 124px; text-align: center;" rowspan="7"><strong>Xe cộ</strong></td>
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Ô tô</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại xe ô tô từ 9 chỗ trở xuống. Ví dụ: Xe ford transit 9 chỗ</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Xe máy</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại xe máy (xe tay ga, xe số) sử dụng xăng là nhiên liệu.</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Xe tải, Xe ben</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại xe tải, xe ben. Ví dụ: Xe tải chở hàng (Hyundai, JAC, Isuzu, Veam, Kia, …)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Xe điện</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại xe máy, xe đạp sử dụng điện là nhiên liệu.</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Xe đạp</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại xe đạp dùng bàn đạp điều khiển. Ví dụ: xe đạp leo núi, xe đạp giant, … (Không bao gồm xe đạp tập đi cho trẻ em)</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Phương tiện khác</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại xe ô tô từ 16 chỗ lên như các loại xe khách hoặc xe chuyên dụng. Ví dụ: Xe ford transit 16 chỗ, Xe đầu kéo, Xe xúc, Xe bồn, Xe công nông, …</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Phụ tùng xe</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán tất cả các loại phụ tùng cho mọi loại xe.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 288px; width: 124px; text-align: center;" rowspan="9"><strong>Đồ điện tử</strong></td>
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Điện thoại</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán điện thoại di động, điện thoại cố định các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Máy tính bảng</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán máy tính bảng các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Laptop</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán máy tính xách tay các loại.</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Máy tính để bàn</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán máy tính cố định các loại.</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Máy ảnh, Máy quay</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán máy ảnh, máy quay phim các loại.</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Tivi, Âm thanh</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán Tivi và thiết bị âm thanh các loại.&nbsp;Ví dụ: Tivi, Loa, Tai nghe, Ampli, Dàn âm thanh, Micro, …&nbsp;</span></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 125px; text-align: center;"><span style="font-weight: 400;">Phụ kiện (Màn hình, Chuột…)</span></td>
+<td style="height: 54px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán phụ kiện điện tử các loại. Ví dụ: Màn hình máy tính bàn, Chuột máy tính, Bàn phím, Bao da/Ốp lưng, Dây cáp sạc, Pin sạc dự phòng, Thẻ nhớ, Ổ cứng di động, …&nbsp;</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Linh kiện (RAM, Card…)</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán linh kiện điện tử các loại. Ví dụ: Ram máy tính, Bo mạch chủ – Mainboard, Màn hình điện thoại, Ổ cứng máy tính, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;">Thiết bị đeo thông minh</td>
+<td style="height: 36px; width: 644px; text-align: left;">Gồm các tin đăng mua bán thiết bị đeo thông minh các loại. Ví dụ: Đồng hồ/Vòng tay thông minh (Apple watch, Xiaomi Mi Band, …), Kính thực tế ảo (Samsung Gear, VR Box, …)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 36px; width: 124px; text-align: center;" rowspan="2"><strong>Việc làm</strong></td>
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Danh sách<br>
+việc làm</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng tuyển dụng.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;">Danh sách<br>
+người tìm việc</td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm&nbsp;các tin đăng tìm việc làm.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 108px; width: 124px; text-align: center;" rowspan="6"><strong>Thú cưng</strong></td>
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Gà</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán gà các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Chó</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán chó các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Chim</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán chim các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Mèo</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán mèo các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Thú cưng khác </span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các loại động vật khác (không bao gồm các loại trên) với mục đích làm thú cưng: cá cảnh, hamster, …<br>
+</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;">Phụ kiện, Thức ăn, Dịch vụ</td>
+<td style="height: 18px; width: 644px; text-align: left;">– Các vật dụng, thức ăn dành cho thú cưng: hồ cá, lồng chim, …<br>
+– Các dịch vụ dành cho thú cưng: dịch vụ phối giống, dịch vụ chăm sóc thú cưng, …</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 124px; text-align: center; height: 168px;" rowspan="3"><strong>Tủ lạnh, Máy lạnh, Máy giặt</strong><strong><br>
+</strong></td>
+<td style="width: 125px; text-align: center; height: 48px;">Tủ lạnh</td>
+<td style="width: 644px; height: 48px;">Bao gồm thiết bị làm mát, dùng để trữ lạnh thực phẩm như tủ lạnh, các thiết bị dùng để trữ lạnh thực phẩm, tủ đông, các bộ phận khác của tủ lạnh (chân kê tủ lạnh, …), …</td>
+</tr>
+<tr style="height: 72px;">
+<td style="width: 125px; text-align: center; height: 72px;">Máy lạnh, điều hoà</td>
+<td style="width: 644px; height: 72px;">Bao gồm thiết bị làm mát và điều hoà không khí như máy lạnh, điều hoà, máy lạnh di động, máy lọc không khí, các bộ phận khác của máy lạnh, điều hoà (remote máy lạnh, …), …</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 125px; text-align: center; height: 48px;">Máy giặt</td>
+<td style="width: 644px; height: 48px;">Bao gồm thiết bị làm sạch quần áo như máy giặt, máy sấy quần áo, túi lọc máy giặt, các bộ phận khác của máy giặt, …</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 124px; height: 682px; text-align: center;" rowspan="10">
+<div><strong>Đồ gia dụng,</strong><br>
+<strong>nội thất, cây cảnh</strong></div>
+<p><strong>&nbsp;</strong></p></td>
+<td style="width: 125px; text-align: center; height: 25px;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bếp, lò, đồ điện nhà bếp&quot;}" data-sheets-userformat="{&quot;2&quot;:2112257,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:0,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:255},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:13,&quot;24&quot;:[null,0,3,0,3]}">Bếp, lò, đồ điện nhà bếp</span></td>
+<td style="width: 644px; height: 25px;">Bao gồm:<br>
+– Các loại bếp dùng để nấu nướng như: bếp từ, bếp điện, bếp gas, …<br>
+– Các loại các loại lò như: lò nướng, lò quay, …<br>
+– Các sản phẩm đồ điện (có dùng điện) trong nhà bếp như: máy xay thịt (dùng điện), máy đánh trứng (dùng điện), nồi cơm điện, máy xay sinh tố, máy rửa chén bát, bình/ấm siêu tốc, bình thuỷ điện, máy làm sữa chua, máy pha cà phê, máy làm tỏi đen, máy sấy chén, máy sấy thực phẩm, máy hút khói, máy hút chân không, …</td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 125px; text-align: center; height: 26px;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dụng cụ nhà bếp&quot;}" data-sheets-userformat="{&quot;2&quot;:2112257,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:0,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:255},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:13,&quot;24&quot;:[null,0,3,0,3]}">Dụng cụ nhà bếp</span></td>
+<td style="width: 644px; height: 26px;">Bao gồm:<br>
+– Các dụng cụ nấu nướng cơ bản: bộ nồi, bộ chảo, …<br>
+– Các dụng cụ dùng để ăn, đựng thực phẩm, dụng cụ nhà bếp (không dùng điện): hộp đựng thức ăn, tô chén muỗng, dĩa, ly tách, phích nước, bình thuỷ thường (không dùng điện), đồ đánh trứng (không dùng điện), đồ xay thịt/xay tiêu (không dùng điện), …</td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 125px; text-align: center; height: 26px;"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Giường, chăn ga gối nệm&quot;}" data-sheets-userformat="{&quot;2&quot;:2112257,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:0,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:255},&quot;15&quot;:&quot;Times New Roman&quot;,&quot;16&quot;:13,&quot;24&quot;:[null,0,3,0,3]}">Giường, chăn ga gối nệm</span></td>
+<td style="width: 644px; height: 26px;">Bao gồm các sản phẩm:<br>
+– Võng, nệm, chiếu nằm các loại (chiếu điều hoà, chiếu tre, chiếu trúc)<br>
+– Các loại giường nằm<br>
+– Các loại trải giường, chăn ra gối nệm, vỏ gối, ruột mền, mùng, chăn chần, bông gòn nhồi ruột gối, …</td>
+</tr>
+<tr style="height: 72px;">
+<td style="width: 125px; height: 72px; text-align: center;">Thiết bị vệ sinh, nhà tắm</td>
+<td style="width: 644px; height: 72px;">Bao gồm các sản phẩm như: vòi sen, vòi nóng lạnh, bình tắm nóng lạnh/cây tắm nóng lạnh, máy nước nóng, sen cây (vòi sen), bồn rửa mặt/lavabo, vòi xịt nhà tắm, thoát sàn, bồn cầu/toilet, bidet (vòi xịt), …</td>
+</tr>
+<tr style="height: 72px;">
+<td style="width: 125px; height: 72px; text-align: center;">Quạt</td>
+<td style="width: 644px; height: 72px;">Bao gồm các sản phẩm về quạt như: quạt trần, quạt điều hoà, quạt giấy, quạt cây, quạt đứng, máy lọc không khí, …</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 125px; text-align: center; height: 25px;">Đèn</td>
+<td style="width: 644px; height: 25px;">Bao gồm các sản phẩm về đèn như: đèn trang trí, đèn ngủ, đèn diệt côn trùng, …</td>
+</tr>
+<tr style="height: 76px;">
+<td style="width: 125px; height: 76px; text-align: center;">Bàn ghế</td>
+<td style="width: 644px; height: 76px;">Bao gồm các sản phẩm về các loại bàn ghế như: ghế bố, ghế massage, chân bàn, bàn trang điểm, bàn làm việc (không dùng cho văn phòng), sofa, sập, gụ, trường kỷ, phản gỗ, …</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 125px; height: 48px; text-align: center;">Tủ, kệ gia đình</td>
+<td style="width: 644px; height: 48px;">Bao gồm các sản phẩm như: tủ kệ, ngăn chứa đồ, tủ thờ loại to (có thể đựng đồ), tủ quần áo, kệ sách, kệ giày dép, ngăn/hộc chứa đồ, …</td>
+</tr>
+<tr style="height: 120px;">
+<td style="width: 125px; height: 120px; text-align: center;">Cây cảnh, đồ trang trí</td>
+<td style="width: 644px; height: 120px;">Bao gồm các sản phẩm cây cảnh, đồ vật dùng để trang trí trong nhà như:<br>
+– Trang trí cho nhà cửa: lọ hoa, …<br>
+– Cây cảnh: cây để bàn, tiểu cảnh sân vườn, tường cây, hòn non bộ, cỏ các loại, cây lá màu, cây trồng viền, cây đại thụ, cây xanh đô thị, cây có hoa, cây nền. Phụ kiện cho cây như đá trang trí, ốc trang trí, chậu cây, …</td>
+</tr>
+<tr style="height: 192px;">
+<td style="width: 125px; height: 192px; text-align: center;">Nội thất, đồ gia dụng khác</td>
+<td style="width: 644px; height: 192px;">Bao gồm các vật dụng dùng trong gia đình nhưng không thuộc các chuyên mục nội thất/gia dụng  trên như:<br>
+– Dụng cụ dọn vệ sinh nhà cửa (chổi, ki, máy hút bụi, cây lau nhà).<br>
+– Lịch treo tường, lịch để bàn, lịch Bloc<br>
+– Đồng hồ treo tường, để bàn, báo thức<br>
+– Bàn thờ ông địa, thần tài, quan âm (loại bàn thờ nhỏ), Đồ thờ cúng<br>
+– Giấy dán tường, Gương soi, Thảm, Ô/dù, Áo mưa, Ổ khóa, Máy massage, Viên xả vải, Máy phun sương, Màn cửa, Cửa, Máy sấy tóc, …</td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 124px; text-align: center;"><strong>Mẹ và bé</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Mẹ và bé</span></td>
+<td style="width: 644px; height: 36px;">Bao gồm đồ dùng cho mẹ (máy hút sữa, quần áo bà bầu, …) và bé (xe tập đi, nôi/cũi, quần áo cho bé, đồ chơi cho bé, tả, ghế ăn dặm, …)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 126px; width: 124px; text-align: center;" rowspan="6"><strong>Thời trang, Đồ dùng cá nhân</strong></td>
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Quần áo</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán váy đầm, quần áo, … nam nữ các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Đồng hồ</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán đồng hồ đeo tay thời trang nam nữ các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Giày dép</span></td>
+<td style="height: 18px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán giày dép nam nữ các loại.</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Túi xách</span></td>
+<td style="width: 644px;">Gồm các tin đăng mua bán túi xách nam nữ các loại như túi xách, balo, vali, cặp đeo, bóp ví.</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 125px; text-align: center;"><span style="font-weight: 400;">Nước hoa</span></td>
+<td style="width: 644px;"></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Phụ kiện thời trang khác</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các phụ kiện thời trang khác: nhẫn, vòng tay, thắt lưng, mắt kính, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 216px; width: 124px; text-align: center;" rowspan="6"><strong>Giải trí, Thể thao, Sở thích</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;">Nhạc cụ</td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến âm nhạc. Ví dụ: Đàn organ/piano, trống, sáo, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Sách</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến sách, báo, truyện, tạp chí, và các sản phẩm liên quan.</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Đồ thể thao, Dã ngoại</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến thể thao dã ngoại. Ví dụ: Tạ tập thể dục, máy chạy bộ, lều cắm trại, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Đồ sưu tầm, đồ cổ</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến đồ cổ, sưu tầm. Ví dụ: Đồng hồ cổ, bật lửa, tranh ảnh,&nbsp;thạch/đá quý, gốm sứ, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Thiết bị chơi game</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến game, điện tử. Ví dụ: Máy chơi điện tử cầm tay, PS3, PS4, Playstation, đĩa game chơi điện tử, tay cầm chơi game, …&nbsp;</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;">Sở thích khác</td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến giải trí, sở thích khác. Ví dụ: Phim, nhạc (đĩa), vé, hoa, đồ lưu niệm, đồ handmade, dụng cụ ảo thuật, bài uno, bài poker, cờ cá ngựa, cờ tỉ phú, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 90px; width: 124px; text-align: center;" rowspan="2"><strong>Đồ dùng văn phòng, công nông nghiệp</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Đồ dùng văn phòng</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán loại sản phẩm, máy móc dùng trong văn phòng. Ví dụ: máy chiếu, máy photo, máy in, bàn ghế văn phòng, …</span></td>
+</tr>
+<tr style="height: 54px;">
+<td style="height: 54px; width: 125px; text-align: center;"><span style="font-weight: 400;">Đồ chuyên dụng, Giống nuôi trồng</span></td>
+<td style="height: 54px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán loại sản phẩm chuyên dụng cho từng ngành nghề. Ví dụ: máy pha cà phê chuyên dụng, bàn ghế dùng trong quán cà phê, máy khoan, máy bào, … v</span><span style="font-weight: 400;">à các loại giống dùng để nuôi trồng. Ví dụ: tôm giống, cây giống, …</span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 72px; width: 124px; text-align: center;" rowspan="2"><strong>Dịch vụ, Du lịch</strong><strong><br>
+</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Dịch vụ </span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng cung cấp, cho thuê hoặc cần tìm dịch vụ. Ví dụ: Cho thuê xe du lịch, cung cấp dịch vụ sửa chữa nhà, … </span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Du lịch </span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua bán các sản phẩm liên quan đến du lịch: tour du lịch, vé tàu, vé xe, vé máy bay, … </span></td>
+</tr>
+<tr style="height: 36px;">
+<td style="height: 36px; width: 124px; text-align: center;"><strong>Các loại khác</strong></td>
+<td style="height: 36px; width: 125px; text-align: center;"><span style="font-weight: 400;">Các loại khác</span></td>
+<td style="height: 36px; width: 644px; text-align: left;"><span style="font-weight: 400;">Gồm các tin đăng mua các sản phẩm khác với các chuyên mục đã liệt kê bên trên. Ví dụ: đồ ăn, thức uống, …</span></td>
+</tr>
+</tbody>
+</table>
+<h4><strong> 3. Không mua bán sản phẩm cụ thể</strong></h4>
+<p><span style="font-weight: 400;">Chợ Tốt chỉ đăng những tin mua bán 1 sản phẩm hoặc dịch vụ cụ thể. Tin rao chỉ nhằm mục đích quảng cáo về công ty sẽ không được đăng. Các tin rao không nhằm mục đích mua bán không được đăng.</span> <span style="font-weight: 400;">Thông tin chi tiết và cụ thể về sản phẩm sẽ giúp bạn bán hàng được nhanh hơn. Do đó để đăng lại tin, vui lòng làm theo hướng dẫn sau:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Miêu tả chi tiết mặt hàng/ dịch vụ bạn muốn quảng cáo: nhãn hiệu, kích cỡ, giá tiền, chất liêu, công dụng … của sản phẩm cần bán. &nbsp;</span></li>
+<li><span style="font-weight: 400;">Không liệt kê nhiều mặt hàng/ từ khóa tìm kiếm khác nhau trong nội dung.</span></li>
+<li><span style="font-weight: 400;"><span style="font-weight: 400;">Các tin chỉ quảng cáo về công ty &amp; mặt hàng 1 cách chung chung (tin quảng bá đơn thuần), hoặc chỉ nêu báo giá/ liệt kê các mặt hàng mà không miêu tả, sẽ không được đăng.</span></span></li>
+</ul>
+<h4><strong>4. Thiếu thông tin</strong></h4>
+<p><span style="font-weight: 400;">Nếu tin đăng của bạn có quá ít thông tin, người mua sẽ không liên lạc với bạn để mua hàng. Đó là lý do tại sao Chợ Tốt chỉ cho phép tin có miêu tả đầy đủ sản phẩm được đăng. </span> <span style="font-weight: 400;">Để nâng cao chất lượng, hiệu quả của tin, đồng thời giúp người mua dễ dàng hình dung sản phẩm bạn đang rao bán. Hãy sửa lại tin theo hướng dẫn sau:</span></p>
+<ol>
+<li><strong> Xe Cộ:</strong></li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cần cung cấp một số đặc điểm nhận diện xe: Tên xe, thương hiệu xe, xuất xứ (xe Việt hay xe nhập từ nước nào), loại xe (xe số hay xe tay ga, xe số tay hay số tự động,..) </span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Miêu tả thêm về các đặc điểm đã sử dụng: Năm đăng ký, số km đã đi, nhiên liệu sử dụng cho xe, xe chính chủ không, …</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Các thông tin khác: Giá bán (đồng ý thương lượng không), tình trạng hiện tại của xe (xe còn zin hay có thay thế gì chưa, có hỏng hóc ở đâu không …), lý do bán xe, …</span></li>
+</ul>
+</li>
+</ul>
+<ol start="2">
+<li><span style="font-weight: 400;"><strong> Bất Động Sản</strong>: Cần miêu tả rõ địa chỉ (Tên Đường, Ấp- Thôn, Xã, Quận-Huyện, Tỉnh – TP), diện tích (diện tích đất và diện tích sử dụng), giá bán (có đồng ý thương lượng giá không, tiếp môi giới không), lí do cần bán/cho thuê Bất động sản trên. Ngoài ra, cần cung cấp thêm 1 một số thông tin tùy vào loại hình Bất động sản. Cụ thể là: </span></li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Căn hộ chung cư: cần có thêm tên căn hộ, Các tiện ích xung quanh (có gần trường học/ chợ / bệnh viện / siêu thị, ..), </span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nhà đất: miêu tả thêm loại hình xây dưng nhà (nhà trệt, nhà cấp 4, ..),số lượng phòng (bao nhiêu phòng ngủ, phòng khách, bếp, …), loại hình đất gì (đất dự án, đất thổ cư, đất nông nghiệp,…) và các đặc điểm nổi bật khác (thuận tiện đi lại không, gần đường lớn không, có bao gồm nội thất gì trong nhà không, …)</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Văn phòng, mặt bằng kinh doanh/ Phòng trọ: Cần nêu rõ hình thức cho thuê (ngắn hạn, dài hạn, …) và các đặc điểm nổi bật khác (gần khu trung tâm không, bao gồm nội thất, cơ sở vật chất gì không?, …)</span></li>
+</ul>
+</li>
+</ul>
+<ol start="3">
+<li><span style="font-weight: 400;"><strong> Đồ Điện Tử và Đồ Gia Dụng</strong>:</span></li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cần cung cấp một số đặc điểm nhận diện sản phẩm: Tên máy, thương hiệu, model, xuất xứ (mua tại đâu, hàng Việt Nam hay hàng nhập, nếu nhập thì từ nước nào?)</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Miêu tả thêm về các đặc điểm đã sử dụng: Sử dụng được bao lâu, máy có zin hay thay thế gì không, có hư hỏng, trầy xước gì không, sản phẩm còn bảo hành không, có phụ kiện gì kèm theo không, ….</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Các thông tin khác: Giá bán (đồng ý thương lượng không?), lý do bán sản phẩm, có cam kết gì sau bán không (chế độ bảo hành, đổi trả,..), …</span></li>
+</ul>
+</li>
+</ul>
+<ol start="4">
+<li><span style="font-weight: 400;"><strong> Đồ Dùng Cá Nhân</strong> (Quần áo, đồng hồ, đồ trang sức, giày, dép,..):</span></li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Quần áo / Giày dép: cần miêu tả các đặc điểm giúp nhận diện sản phẩm: Nhãn hiệu, xuất xứ (hàng Việt Nam, hàng VNXK, hay hàng xách tay… ), size (thích hợp với người có cân nặng như thế nào), &nbsp;chất liệu (cotton, vải … ), tình trạng hình thức như thế nào, đã dùng lâu chưa? (còn mới hay đã sử dụng,…), giá bán và lý do bán, …</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Đồng hồ / Đồ trang sức: Cần cung cấp hiệu và mã sản phẩm, xuất xứ (mua ở đâu, hàng Việt, xách tay, hay nhập, sản &nbsp;xuất tại nước nào?), giá khi mua khoảng bao nhiêu, tình trạng bảo hành (còn bảo hành không), có trầy xước, sửa chưa gì không? Giá bán và lí do bán, …Lưu ý: đối với các sản phẩm trang sức như vòng lắc bạc cần mô tả khối lượng sản phẩm (Ví dụ: dây chuyền bạc 2 chỉ).</span></li>
+</ul>
+</li>
+</ul>
+<ol start="5">
+<li><span style="font-weight: 400;"><strong> Vật nuôi, Thú cưng</strong>: </span></li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cần cung cấp một số đặc điểm nhận diện vật nuôi: Tên vật nuôi (dòng nào), chủng loại (thuần chủng hay lai), giới tính (con cái hay con đực), thời gian nuôi (mấy tháng tuổi/ năm tuổi), màu sắc,…</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Các thông tin khác: Cân nặng, tình trạng sức khỏe (có khoẻ mạnh không, đã tiêm phòng những bệnh gì, …), đối với vật nuôi có xuất xứ từ nước ngoài cần liệt kê có giấy tờ kèm theo không (Giấy chứng nhận lý lịch bố mẹ, giấy khám sức khỏe,…), có bán kèm phụ kiện không (lồng/ chuồng/ đồ ăn… ), giá bán và lí do bán.</span></li>
+</ul>
+</li>
+</ul>
+<ol start="6">
+<li><span style="font-weight: 400;"><strong> Việc làm</strong>:</span></li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tin tuyển dụng: Cần miêu tả chi tiết về vị trí tuyển dụng (tuyển dụng vị trí nào: kế toán, giao hàng, thủ kho,…), các yêu cầu đối với người lao động đối với vị trí tuyển dụng (cần có kỹ năng gì, bằng cấp như thế nào, …), các quyền lợi và nghĩa vụ của người lao động (mức lương như thế nào, chế độ làm việc, thỏa thuận lao động giữa hai bên ra sao,…). Đồng thời, cần có thông tin của công ty tuyển dụng (Tên công ty, địa chỉ công ty, hình thức và mặt hàng kinh doanh, ,,,)</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tin tìm việc: Cần miêu tả chi tiết công việc bạn muốn (Muốn tìm việc gì: kế toán, bán hàng, …) và các kinh nghiệm/bằng cấp của bạn (Có kinh nghiệm gì không, đã có bằng cấp gì?).</span></li>
+</ul>
+</li>
+</ul>
+<ol start="7">
+<li><span style="font-weight: 400;"><strong> Các mặt hàng khác</strong>: cần có tên sản phẩm cần bán, thương hiệu, giá tiền, kích cỡ, xuất xứ, công dụng, lí do bán,… Nếu bạn chỉ nêu báo giá hoặc liệt kê các mặt hàng mà không miêu tả, tin sẽ không được đăng.</span></li>
+</ol>
+<h4><strong>5. Dự án chưa được cập nhật</strong></h4>
+<p><span style="font-weight: 400;">Khi tin đăng của bạn bị từ chối do dự án chưa được cập nhật, hãy giúp Chợ Tốt cập nhật dự án bằng cách gửi email về trogiup@chotot.vn và cung cấp cho chúng tôi các thông tin:</span> <span style="font-weight: 400;">– Tên dự án</span> <span style="font-weight: 400;">– Địa chỉ </span> <span style="font-weight: 400;">– Tên chủ đầu tư</span> <span style="font-weight: 400;">– Ngày khởi công – Ngày hoàn thành</span> <span style="font-weight: 400;">– Đường link giới thiệu dự án từ chủ đầu tư</span> <span style="font-weight: 400;">Chúng tôi sẽ cập nhật trong thời gian sớm nhất. </span> <span style="font-weight: 400;">Do số lượng dự án ở chuyên mục Bất Động sản có thể thay đổi liên tục, nên không tránh khỏi vấn đề chưa kịp cập nhật. Vì thế, Chợ Tốt rất mong nhận được phản hồi của người dùng, góp phần xây dựng Chợ Tốt ngày một hiệu quả hơn.</span></p>
+<h4><strong><a id="6" data-ps2id-target=""></a>6. Tin đăng trùng lặp</strong></h4>
+<p><span style="font-weight: 400;">Chợ Tốt quy định “Không có tin trùng lặp” trên trang chủ để giúp người dùng nhanh chóng bán được hàng và người mua tìm kiếm được các sản phẩm dễ dàng. </span> <span style="font-weight: 400;">Định nghĩa “trùng lặp” trên Chợ Tốt như sau: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dùng một hoặc nhiều tài khoản khác nhau để rao bán cùng 1 sản phẩm (kể cả đã ẩn tin rao trước đó và tiến hành đăng lại).</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dùng một hoặc nhiều tài khoản khác nhau để đăng bán các sản phẩm gần giống nhau, có cùng mẫu mã. </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dùng một hoặc nhiều tài khoản khác nhau để đăng tin tuyển dụng các công việc có tính chất tương tự nhau.</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dùng một hay nhiều tài khoản để rao bán các căn hộ chung cư trong cùng 1 dự án. </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dùng một hay nhiều tài khoản để rao bán các mảnh đất khác nhau trên cùng 1 con đường. </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dùng một hay nhiều hình ảnh đã đăng tin trước đó để đăng lại tin mới.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Một số mẹo đăng tin để tránh tin trùng lặp: </span></p>
+<ol>
+<li><strong> Không dùng số điện thoại khác hoặc ẩn tin để đăng tin trùng lặp: </strong><span style="font-weight: 400;">Tin trùng lặp với tin đã ẩn, hoặc tin đăng trùng lặp sử dụng số điện thoại khác cũng bị từ chối. </span></li>
+</ol>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nếu bạn có nhiều sản phẩm cùng loại có nhiều tình trạng khác nhau, bạn có thể miêu tả nhiều tình trạng, giá tiền khác nhau của cùng 1 sản phẩm trong 1 tin đăng.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Đối với các công việc có tính chất tương tự nhau, Chợ Tốt chỉ cho phép đăng 1 tin tuyển dụng duy nhất trong cùng 1 thành phố / tỉnh thành. Tuy nhiên, trong 1 tin đăng tuyển dụng cho phép đăng tuyển ở nhiều quận huyện khác nhau của cùng thành phố/tỉnh thành đó.</span></li>
+</ul>
+<ol start="2">
+<li><strong> Chỉ đăng 1 tin cho cùng 1 loại sản phẩm</strong></li>
+</ol>
+<p style="padding-left: 40px;"><span style="font-weight: 400;">2.1 </span><strong>Bất động sản: </strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><strong>Căn hộ/Chung cư</strong>
+<ul>
+<li>Cùng dự án chỉ đăng 1 tin. Để bán các căn hộ chung cư trong cùng 1 dự án: bạn chỉ cần đăng tất cả các căn hộ trong cùng một tin đăng, và liệt kê tất cả các diện tích của các căn hộ còn lại ở cuối tin.</li>
+<li><span style="font-weight: 400;">Tựa đề tin cần thể hiện rõ căn hộ cần bán. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối. Tựa đề tốt bao gồm: Tên dự án + diện tích + tiện ích. Ví dụ: Căn hộ River Side 20-50 m2,3 phòng ngủ</span></li>
+</ul>
+</li>
+<li><strong>Nhà ở</strong>
+<ul>
+<li>Cùng con đường/dự án chỉ đăng 1 tin. Để bán 2 ngôi nhà gần giống nhau (cùng 1 dự án, cùng 1 con đường, nhà liền kề, hình chụp giống, diện tích khác …), hãy đăng và chụp hình 1 ngôi nhà. Ngôi nhà còn lại có thể miêu tả ở cuối tin.</li>
+<li><span style="font-weight: 400;">Tựa đề tin cần thể hiện rõ ngôi nhà cần bán. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối. Tựa đề tốt bao gồm: Tên đường + diện tích + tiện ích. Ví dụ: Nhà 58 Phan Chu Trinh, Bình Thạnh, 120 m2, 2 phòng ngủ</span></li>
+</ul>
+</li>
+<li><strong>Đất</strong>
+<ul>
+<li>Cùng con đường/dự án chỉ đăng 1 tin. Để bán đất cùng một con đường, cùng dự án: hãy đăng và chụp hình 1 mảnh đất và liệt kê diện tích, mô tả các đặc điểm còn lại của các mảnh đất khác ở cuối tin.</li>
+<li><span style="font-weight: 400;">Tựa đề tin cần thể hiện rõ mảnh đất cần bán. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối. Tiêu đề tốt bao gồm: tên dự án + tên đường + diện tích. Ví dụ: Lô 2C đường An Phú Tây,B.Chánh,sổ hồng riêng,118m2</span></li>
+</ul>
+</li>
+<li><strong>Văn phòng, mặt bằng kinh doanh</strong>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cùng dự án chỉ đăng 1 tin. Để bán 2 mặt bằng/văn phòng trong cùng 1 dự án, hãy đăng và chụp hình 1 mặt bằng/văn phòng. Bạn có thể quảng cáo mặt bằng/văn phòng còn lại ở cuối miêu tả tin.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tựa đề tin cần thể hiện rõ mặt bằng/văn phòng cần bán. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối. Tựa đề tốt bao gồm: tên mặt bằng/văn phòng + tên đường + diện tích. Ví dụ: Văn phòng F-Home Lý Thường Kiệt, 62m2, 3 lầu</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><strong>Phòng cho thuê</strong></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Cùng 1 ngôi nhà/căn hộ chỉ đăng 1 tin. Để cho thuê 2 phòng gần giống nhau (cùng 1 ngôi nhà, chung cư, hình chụp giống , diện tích khác…), hãy đăng và chụp hình 1 căn phòng. Phòng còn lại có thể miêu tả ở cuối tin.</li>
+<li><span style="font-weight: 400;">Tựa đề tin cần thể hiện rõ phòng cần cho thuê. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối. Tựa đề tốt bao gồm: Tên đường + diện tích + tiện ích. Ví dụ: Phòng trọ mới xây, 12m2 Nguyễn văn linh – Qlộ 50</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-weight: 400;">2.2 </span><strong>Xe cộ</strong><span style="font-weight: 400;">: </span></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mỗi mẫu mã (model) xe chỉ đăng 1 tin.</span> <span style="font-weight: 400;">Để bán 2 xe cộ có hình thức giống nhau (cùng model, cùng màu, khác năm đăng ký, số km đã đi…), hãy đăng và chụp hình 1 xe. Xe còn lại có thể miêu tả ở cuối tin.</span> <span style="font-weight: 400;">Trường hợp đặc biệt</span><span style="font-weight: 400;">: để đăng bán 2 xe khác nhau cùng 1 model ở &nbsp;2 tin, vui lòng chụp hình biển số của mỗi xe để phân biệt.</span></li>
+<li style="font-weight: 400;">Tựa đề tin cần thể hiện rõ ô tô cần bán. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối. Tựa đề tốt bao gồm: model xe + màu sắc + tình trạng. Ví dụ: Toyota Camry 2.5Q đen đã sử dụng 6 tháng</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-weight: 400;">2.3 </span><strong>Đồ điện tử</strong><span style="font-weight: 400;">: </span></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mỗi mẫu mã (model) điện tử (Điện thoại/Máy tính/Laptop/…) chỉ đăng 1 tin. </span> <span style="font-weight: 400;">Để bán 2 đồ điện tử cùng model, hãy đăng và chụp hình 1 mặt hàng. Mặt hàng còn lại có thể miêu tả ở cuối tin.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tựa đề tin cần thể hiện rõ điện thoại cần bán. Tựa đề &nbsp;không phân biệt được với các tin đã đăng sẽ bị từ chối. Tựa đề tốt thường có: Model điện thoại + màu sắc + tình trạng. Ví dụ: IPhone 5 16gb Trắng Quốc Tế đã dùng 6 tháng”</span></li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-weight: 400;">2.4 </span><strong>Việc làm </strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Các công việc có tính chất giống nhau chỉ đăng 1 tin. Để đăng các công việc gần giống nhau (cùng tính chất công việc, khác quận huyện…), hãy miêu tả chi tiết 1 việc làm. Các vị trí còn lại có thể miêu tả ở cuối tin.</span></li>
+<li style="font-weight: 400;">Tựa đề tin cần thể hiện rõ việc làm cần tuyển. Tựa đề không rõ ràng, không phân biệt được với các tin đã đăng sẽ bị từ chối.</li>
+</ul>
+</li>
+</ul>
+<p style="padding-left: 40px;"><span style="font-weight: 400;">2.5</span><strong> Các chuyên mục còn lại</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mỗi mẫu mã chỉ đăng 1 tin. Để bán 2 mặt hàng gần giống nhau (mẫu mã giống, hình chụp giống, chỉ khác màu, kích cỡ…), hãy đăng trong cùng 1 tin. Bạn có thể quảng cáo về mặt hàng còn lại ở cuối miêu tả tin.</span></li>
+<li style="font-weight: 400;">Tựa đề tin cần thể hiện rõ mặt hàng cần bán. Tựa đề của tin mới phải phân biệt được với các tin đã và đang bán.</li>
+</ul>
+</li>
+</ul>
+<ol start="3">
+<li><strong> Sử dụng hình ảnh thật của sản phẩm:</strong></li>
+</ol>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nên tự chụp hình sản phẩm và không dùng lại hình ảnh của sản phẩm này đăng cho sản phẩm khác. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mỗi tin đăng chỉ cần trùng một hình ảnh với tin đăng khác thì sẽ được xem là tin đăng trùng lặp.</span></li>
+</ul>
+<p style="padding-left: 40px;"><span style="text-decoration: underline;"><span style="font-weight: 400;">Lưu ý</span></span><span style="font-weight: 400;">: Tin đăng bị từ chối trùng lặp sẽ không sửa lại được.</span></p>
+<h4><strong>7.&nbsp;Tin đăng cần xác minh thông tin</strong></h4>
+<p>Chợ Tốt có quy trình xác minh thông tin tin đăng nhằm bảo vệ quyền lợi của người bán và người mua, việc xác minh thông tin sẽ giúp tin đăng của bạn được bảo vệ bởi Chợ Tốt và đáng tin cậy hơn. Để hoàn tất quá trình xác minh vui lòng cung cấp đầy đủ các thông tin sau về địa chỉ email trogiup@chotot.vn:</p>
+<ul>
+<li>Hình chụp Chứng Minh Nhân Dân (2 mặt) của bạn.</li>
+<li>Hình chụp văn bản gốc từ nhà mạng viễn thông HOẶC Video clip thao tác trên điện thoại, giúp chứng minh Số điện thoại dùng đăng tin trên Chợ Tốt thuộc chính chủ của bạn.</li>
+<li>Các số điện thoại bạn dùng để đăng tin.</li>
+</ul>
+<p>Chotot.com chỉ sử dụng thông tin này để xác thực và sẽ không dùng cho bất kỳ mục đích nào khác.</p>
+                ', N'Hướng dẫn đăng lại tin khi tin bị từ chối', N'Với mục tiêu tạo niềm tin với khách mua xe và đề cao chữ Tín trong việc bán xe trực tuyến, Chợ Tốt ra mắt chương trình Đối Tác Chợ Tốt Xe.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (6, N'
+                <p>Các tin đăng của bạn sẽ được chuyển thành <strong>Bán chuyên/Môi giới</strong> khi bạn đã đăng nhiều tin với nhiều sản phẩm khác nhau, cách buôn bán chuyên nghiệp với mục đích kinh doanh rõ ràng. Điều này sẽ giúp nâng cao hơn sự tín nhiệm của bạn và Chợ Tốt sẽ hỗ trợ đăng nhiều tin hơn.</p>
+<p>Cụ thể mỗi khách hàng Bán chuyên/Môi giới được đăng tối đa 30 tin trong một chuyên mục. Ngoại lệ:</p>
+<ul>
+<li>Các chuyên mục trong <strong>Đồ điện tử</strong>: Đăng tối đa 15 tin trong một chuyên mục.</li>
+<li>Các chuyên mục trong&nbsp;<strong>Xe cộ</strong>:
+<ul>
+<li>Chuyên mục&nbsp;<strong>Xe máy, Ô tô&nbsp;</strong>và<strong>&nbsp;Xe tải, Xe ben</strong>: Đăng tin không giới hạn.</li>
+<li>Các chuyên mục còn lại:&nbsp;Đăng tối đa 30 tin trong một chuyên mục.</li>
+</ul>
+</li>
+</ul>
+<p>Nếu bạn là người dùng&nbsp;<strong>Bán chuyên/Môi giới</strong>&nbsp;và có nhu cầu đăng nhiều tin hơn, hãy đăng ký dịch vụ&nbsp;<a href="//trogiup.chotot.com/quy-dinh/quy-dinh-su-dung-tinh-nang-cua-hang-tren-chotot-com/">Cửa hàng/Chuyên trang</a>&nbsp;của Chợ Tốt (chỉ dành cho 1 số chuyên mục):</p>
+<ul>
+<li>Đối với&nbsp;<strong>Cửa hàng Điện tử</strong>:
+<ul>
+<li>Chuyên mục<strong> Điện thoại</strong>,&nbsp;<strong>Laptop </strong>và <strong>Tivi, Âm thanh</strong>: Đăng tin không giới hạn trong Cửa hàng và trên <a href="//www.chotot.com/toan-quoc/mua-ban">Trang mua bán</a>&nbsp;của Chotot.com.</li>
+<li>Các chuyên mục Điện tử còn lại: Đăng tin không giới hạn trong Cửa hàng và đăng tối đa 30 tin/chuyên mục trên&nbsp;<a href="//www.chotot.com/toan-quoc/mua-ban">Trang mua bán</a>&nbsp;của Chotot.com.</li>
+</ul>
+</li>
+<li>Đối với&nbsp;<strong>Chuyên trang Bất động sản</strong>: Đăng tin không giới hạn trong Chuyên trang và đăng tối đa 30 tin/chuyên mục trên&nbsp;<a href="//www.chotot.com/toan-quoc/mua-ban">Trang mua bán</a>&nbsp;của Chotot.com.</li>
+<li>Đối với&nbsp;<strong>Cửa hàng Xe</strong>:
+<ul>
+<li>Chuyên mục<strong>&nbsp;Xe máy, Ô tô&nbsp;</strong>và<strong>&nbsp;Xe tải, Xe ben</strong>: Đăng tin không giới hạn trong Cửa hàng và trên&nbsp;<a href="//www.chotot.com/toan-quoc/mua-ban">Trang mua bán</a>&nbsp;của Chotot.com.</li>
+<li>Các chuyên mục Xe còn lại: Đăng tin không giới hạn trong Cửa hàng và đăng tối đa 30 tin/chuyên mục trên&nbsp;<a href="//www.chotot.com/toan-quoc/mua-ban">Trang mua bán</a>&nbsp;của Chotot.com.</li>
+</ul>
+</li>
+</ul>
+<p><strong>LƯU Ý</strong>: Tin đăng có yêu cầu thu phí phải được thanh toán thành công trước khi đăng lên Trang mua bán của Chotot.com. Tìm hiểu thêm&nbsp;<a href="//trogiup.chotot.com/nguoi-ban/quy-dinh-dang-tin-doi-voi-cac-chuyen-muc-co-thu-phi/">Quy định đăng tin đối với chuyên mục thu phí</a>.</p>
+                ', N'Tại sao tôi đăng tin Cá nhân nhưng khi đăng lại là tin đăng Bán chuyên/Môi giới?', N'Chụp tổng thể chiếc xe, trước, sau, mặt bên, bánh xe, lốp xe, động cơ, yên ghế, và đồng hồ đo để người mua tiềm năng có thể đọc được số km mà xe đã chạy.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (6, N'
+                <p>Sau khi hoàn tất việc đăng tin, bạn có thể kiểm tra tình trạng tin đăng của mình bằng các cách sau:</p>
+<p><strong><span style="text-decoration: underline;">Cách 1</span>:</strong> Kiểm tra email.</p>
+<p><strong>Chợ Tốt</strong> sẽ gửi đường dẫn tin đăng qua email đăng tin của bạn khi tin đăng đã được duyệt, hoặc đã bị từ chối cùng lý do bị từ chối.</p>
+<p><strong><span style="text-decoration: underline;">Cách 2</span>:</strong></p>
+<p>a. Sử dụng tính năng <strong>Quản lý tin đăng trên trình duyệt web máy tính</strong>:</p>
+<ul>
+<li>Nhấp vào <a href="//www.chotot.com/dashboard/ads">đây</a>&nbsp;để vào trang <strong>Quản lý tin đăng</strong>. Tại đây, người bán sẽ xem được toàn bộ tin đã đăng ở các tình trạng khác nhau: <strong>ĐANG HIỂN THỊ</strong>, <strong>BỊ TỪ CHỐI</strong>, <strong>KHÁC</strong> (bao gồm <strong>Tin đợi duyệt</strong> và <strong>Tin đã ẩn</strong>), …</li>
+<li>Trong trường hợp bạn chưa đăng nhập, vui lòng điền số điện thoại và mật khẩu khi đăng tin. Nếu bạn quên mật khẩu, hãy nhấp vào <a href="//trogiup.chotot.com/nguoi-ban/canh-lay-lai-mat-khau-tai-khoan-cho-tot/">đây</a> để được hướng dẫn.</li>
+</ul>
+<p><img class="alignnone wp-image-1159 size-full" src="https://static.chotot.com/storage/trogiup/sites/2/login.png" alt="login" width="463" height="265"></p>
+<p>b.&nbsp;Sử dụng tính năng <strong>Quản lý tin đăng </strong>thông qua ứng dụng<strong> Chợ Tốt:</strong></p>
+<ul>
+<li>Vào ứng dụng Chợ Tốt và nhấp vào biểu tượng mặt người “Quản lý tin” nằm ở phía dưới ứng dụng.</li>
+</ul>
+<p><img loading="lazy" class="alignnone wp-image-6501 " src="https://static.chotot.com/storage/trogiup/2015/06/Homepage-e1627897726412-473x1024.png" alt="" width="300" height="650" srcset="https://static.chotot.com/storage/trogiup/2015/06/Homepage-e1627897726412-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2015/06/Homepage-e1627897726412-139x300.png 139w, https://static.chotot.com/storage/trogiup/2015/06/Homepage-e1627897726412-203x440.png 203w, https://static.chotot.com/storage/trogiup/2015/06/Homepage-e1627897726412.png 599w" sizes="(max-width: 300px) 100vw, 300px"></p>
+<ul>
+<li>Tại mục <strong>Quản lý tin đăng</strong>, người bán sẽ xem được toàn bộ tin đã đăng ở các tình trạng khác nhau: <strong>ĐANG HIỂN THỊ</strong>, <strong>BỊ TỪ CHỐI</strong>, <strong>KHÁC</strong> (bao gồm <strong>Tin đợi duyệt</strong> và <strong>Tin đã ẩn</strong>), … <span style="text-decoration: underline;">Lưu ý</span>: Nếu không thấy mục “KHÁC”, ở mục các tình trạng khác nhau, vui lòng kéo qua trái để xem các mục còn lại trong trang Quản lý tin đăng.</li>
+</ul>
+<table style="width: 80%; border-collapse: collapse;" border="0">
+<tbody>
+<tr>
+<td><img loading="lazy" class="wp-image-6503 aligncenter" src="https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Đang-hiển-thị-e1627898818380.png" alt="" width="300" height="649" srcset="https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Đang-hiển-thị-e1627898818380.png 596w, https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Đang-hiển-thị-e1627898818380-139x300.png 139w, https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Đang-hiển-thị-e1627898818380-473x1024.png 473w, https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Đang-hiển-thị-e1627898818380-203x440.png 203w" sizes="(max-width: 300px) 100vw, 300px"></td>
+<td><img loading="lazy" class="wp-image-6505 aligncenter" src="https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Chờ-duyệt-e1627899668189.png" alt="" width="300" height="654" srcset="https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Chờ-duyệt-e1627899668189.png 595w, https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Chờ-duyệt-e1627899668189-138x300.png 138w, https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Chờ-duyệt-e1627899668189-470x1024.png 470w, https://static.chotot.com/storage/trogiup/2015/06/Quản-lý-tin-Chờ-duyệt-e1627899668189-202x440.png 202w" sizes="(max-width: 300px) 100vw, 300px"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Mục “ĐANG HIỂN THỊ”</td>
+<td style="text-align: center;">Mục “KHÁC”</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Bạn có thể tham khảo thêm hướng dẫn về <strong><a href="//trogiup.chotot.com/nguoi-ban/toi-can-lam-gi-de-sua-tin-da-dang/">Sửa tin</a></strong>,&nbsp;<strong><a href="//trogiup.chotot.com/nguoi-ban/xoa-tin-da-dang/">Xoá tin</a></strong>, <strong><a href="//trogiup.chotot.com/nguoi-ban/an-tin-da-dang/">Ẩn tin</a></strong>, <strong><a href="//trogiup.chotot.com/nguoi-ban/hien-tin-da-an/">Hiện tin đã ẩn</a></strong>,&nbsp;<strong><a href="//trogiup.chotot.com/nguoi-ban/day-tin-la-gi/">Đẩy tin</a></strong>.</p>
+<p>Nếu bạn đã đăng tin rao vặt trên Chợ Tốt nhưng không tìm thấy tin đăng của bạn, một trong các lý do sau có thể xảy ra với tin đăng của bạn:</p>
+<ul>
+<li><strong>Bạn chưa xác nhận số điện thoại qua tin nhắn</strong>: Hãy nhấn vào <u><a href="//trogiup.chotot.com/nguoi-ban/cho-tot-giup-ban-xac-thuc-so-dien-thoai-cho-moi-tai-khoan-dang-tin/">đây</a></u> để được hướng dẫn xác thực.</li>
+<li><strong>Tin của bạn bị từ chối</strong>: Hãy nhấn vào <u><a href="//trogiup.chotot.com/nguoi-ban/toi-phai-lam-sao-khi-tin-dang-cua-toi-bi-tu-choi/">đây</a></u> để xem hướng dẫn lý do tin bị từ chối.</li>
+<li><strong>Lỗi kỹ thuật</strong>: Hãy nhấn vào <u><a href="//trogiup.chotot.com/lien-he/">đây</a></u> để liên hệ với Chợ Tốt để được hỗ trợ.</li>
+</ul>
+                ', N'Làm sao để tôi tìm và kiểm tra tình trạng tin?', N'Nếu bạn quan tâm đến chương trình “Đối Tác Chợ Tốt”, vui lòng để lại thông tin theo link bên dưới để Chợ Tốt ưu tiên gửi thông báo đến bạn khi chúng tôi mở rộng quy mô chương trình.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (4, N'
+                <p>Nhằm đáp ứng nhu cầu đăng tin của người dùng Chợ Tốt, Chợ Tốt có quy định số lượng tin đăng khác nhau theo từng đối tượng người dùng như bảng bên dưới.</p>
+<p><span style="font-weight: 400;"><span style="text-decoration: underline;">Lưu ý</span>: Tin đăng có yêu cầu thu phí phải được thanh toán thành công trước khi đăng lên <a href="//www.chotot.com/mua-ban">Trang mua bán</a> của Chotot.com, Nhatot.com và Vieclamtot.com. Tìm hiểu thêm <a style="font-weight: 400;" href="//trogiup.chotot.com/nguoi-ban/quy-dinh-dang-tin-doi-voi-cac-chuyen-muc-co-thu-phi/">Quy định đăng tin đối với chuyên mục thu phí</a>.</span></p>
+<table style="height: 118px; width: 100%; border-collapse: collapse; border-color: #000000; font-size: 90%;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 1.42045%; height: 36px; text-align: center; background-color: #ffba00;" rowspan="2"><strong>NGƯỜI DÙNG</strong></td>
+<td style="width: 13.1392%; height: 36px; text-align: center; background-color: #ffba00;" rowspan="2"><strong>MÔ TẢ</strong></td>
+<td style="width: 5.98961%; text-align: center; background-color: #ffba00; height: 36px;" rowspan="2"><strong>CỬA HÀNG/CHUYÊN TRANG/GÓI PRO</strong></td>
+<td style="width: 46.1175%; height: 18px; text-align: center; background-color: #ffba00;" colspan="2"><strong>SỐ LƯỢNG TIN ĐĂNG</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 38.6838%; height: 18px; text-align: center; background-color: #ffba00;"><strong>Trên <a href="//www.chotot.com/mua-ban">Trang mua bán</a> Chợ Tốt</strong></td>
+<td style="width: 7.43371%; height: 18px; text-align: center; background-color: #ffba00;"><strong>Trong Cửa hàng/Chuyên trang</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 1.42045%; height: 18px; text-align: center;"><strong>Cá nhân</strong></td>
+<td style="width: 13.1392%; height: 18px; text-align: center;"><span style="font-weight: 400;">Người bán hàng không vì mục đích kinh doanh</span></td>
+<td style="width: 5.98961%; height: 18px; text-align: center;"><span style="font-weight: 400;">Không áp dụng</span></td>
+<td style="width: 38.6838%; height: 18px;"><span style="font-weight: 400;">Đăng tối đa 3 tin hoặc 10 tin, tuỳ từng chuyên mục.</span></td>
+<td style="width: 7.43371%; height: 18px; text-align: center;">Không có</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 1.42045%; height: 269px; text-align: center;" rowspan="4"><strong>Bán chuyên/Môi giới</strong><br>
+<strong><br>
+</strong></td>
+<td style="width: 13.1392%; height: 269px; text-align: center;" rowspan="4"><span style="font-weight: 400;">Cửa hàng, shop, người bán hàng với mục đích kinh doanh</span><span style="font-weight: 400;"><br>
+</span></td>
+<td style="width: 5.98961%; height: 18px; text-align: center;"><span style="font-weight: 400;">KHÔNG sử dụng dịch vụ <strong>Cửa hàng/Chuyên trang</strong></span></td>
+<td style="height: 159px; width: 38.6838%;" rowspan="2">
+<p><span style="font-weight: 400;">Đăng tối đa 30 tin trong mỗi chuyên mục. </span></p>
+<p><span style="font-weight: 400;">Ngoại lệ:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Đăng tối đa 30 tin theo mỗi <strong>loại tin đăng (Cần bán/Cho thuê)</strong> trong mỗi chuyên mục của </span><b>Bất Động Sản</b><span style="font-weight: 400;">.</span></li>
+<li><span style="font-weight: 400;">Đăng tin không giới hạn số lượng đối với:</span>
+<ul>
+<li><strong>Đồ điện tử: </strong>Chuyên mục <strong>Điện thoại, Laptop</strong><span style="font-weight: 400;"> và </span><strong>Tivi, Âm thanh.</strong></li>
+<li style="font-weight: 400;" aria-level="2"><strong>Xe cộ: </strong>Chuyên mục <strong>Xe máy, Ô tô </strong><span style="font-weight: 400;">và</span><strong> Xe tải, Xe ben.</strong></li>
+</ul>
+</li>
+</ul>
+</td>
+<td style="width: 7.43371%; height: 159px; text-align: center;" rowspan="2">Không có</td>
+</tr>
+<tr style="height: 141px;">
+<td style="width: 5.98961%; text-align: center; height: 141px;"><span style="font-weight: 400;">CÓ sử dụng <a href="https://trogiup.chotot.com/nguoi-ban/goi-pro-bat-dong-san-la-gi/"><strong>Gói Cơ bản</strong> của Gói PRO Bất động sản</a></span></td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 5.98961%; height: 46px; text-align: center;"><span style="font-weight: 400;">CÓ sử dụng dịch vụ <a href="//trogiup.chotot.com/nguoi-ban/quy-dinh-su-dung-tinh-nang-cua-hang-tren-chotot-com/">Cửa hàng/Chuyên trang</a></span></td>
+<td style="width: 38.6838%; height: 46px;" rowspan="2">
+<p><span style="font-weight: 400;">Đăng tối đa 30 tin trong mỗi chuyên mục.</span></p>
+<p><span style="font-weight: 400;">Ngoại lệ, đăng tin không giới hạn số lượng đối với:</span></p>
+<ul>
+<li><b>Bất động sản: </b><span style="font-weight: 400;">Tất cả chuyên mục.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Đồ điện tử: </b><span style="font-weight: 400;">Chuyên mục </span><b>Điện thoại, Laptop</b><span style="font-weight: 400;"> và </span><b>Tivi, Âm thanh.</b></li>
+<li style="font-weight: 400;" aria-level="1"><b style="font-family: inherit; font-size: inherit;">Xe cộ: </b><span style="font-weight: 400;">Chuyên mục </span><b style="font-family: inherit; font-size: inherit;">Xe máy, Ô tô </b><span style="font-weight: 400;">và</span><b style="font-family: inherit; font-size: inherit;"> Xe tải, Xe ben.</b></li>
+</ul>
+<p><span style="font-weight: 400;"><span style="text-decoration: underline;">Lưu ý</span>: Đăng tin không giới hạn theo chuyên mục áp dụng trong điều kiện <strong>Cửa hàng/Chuyên trang</strong> hoặc <strong>Gói Chuyên Nghiệp của Gói PRO Bất động sản</strong> còn hạn sử dụng.</span></p></td>
+<td style="width: 7.43371%; height: 46px; text-align: center;">Không giới hạn số lượng tin đăng</td>
+</tr>
+<tr style="height: 64px;">
+<td style="width: 5.98961%; text-align: center; height: 64px;"><span style="font-weight: 400;">CÓ&nbsp;sử dụng <a href="https://trogiup.chotot.com/nguoi-ban/goi-pro-bat-dong-san-la-gi/"><strong>Gói Chuyên Nghiệp</strong> của Gói PRO Bất động sản</a></span></td>
+<td style="width: 7.43371%; text-align: center; height: 64px;">Không có</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+                ', N'Tôi được đăng bao nhiêu tin với một tài khoản?', N'Chụp hình vào những khung giờ đẹp (7h – 9h sáng hoặc 16-17h chiều). Tránh chụp chiếc xe vào giờ nghỉ trưa hay khi đang để trong một bãi đậu xe để tránh dư sáng hay thiếu sáng cho hình ảnh của bạn.', null, '2022-09-10 16:48:40.285', null)
+insert into BLOG values (3, N'
+                <p>Để việc quản lý tin đăng của khách hàng thuận lợi hơn, Chợ Tốt đã thay thế chức năng <strong>Xoá tin</strong> bằng chức năng <strong>Ẩn tin. </strong>Các lợi ích của việc Ẩn tin:</p>
+<ul>
+<li>Không còn cuộc gọi/tin nhắn làm phiền khi sản phẩm đã bán.</li>
+<li>Đăng bán lại sản phẩm tương tự nhanh chóng bằng cách <a href="//trogiup.chotot.com/ban-hang-tai-chotot-vn/quan-ly-tin-dang/hien-tin-da-an/">Hiển thị lại tin đã ẩn</a>.</li>
+</ul>
+<p>Để <a href="//trogiup.chotot.com/ban-hang-tai-chotot-vn/quan-ly-tin-dang/an-tin-da-dang/">Ẩn tin</a>, vui lòng thực hiện&nbsp;theo các bước sau:</p>
+<p><strong>TRÊN TRÌNH DUYỆT WEB MÁY TÍNH</strong></p>
+<p><strong>Bước 1:&nbsp;</strong>Đăng nhập vào tài khoản của bạn. Vào trang <a href="//www4.chotot.com/dashboard/ads"><strong>Quản lý tin đăng</strong></a>&nbsp;bằng cách nhấn vào biểu tượng tài khoản như hình bên dưới.</p>
+<p><img class=" size-large wp-image-3472 alignnone" src="https://static.chotot.com/storage/trogiup/sites/2/hide_ad_1-700x377.png" alt="hide_ad_1"></p>
+<p><strong>Bước 2:</strong> Chọn tin mà bạn muốn ẩn bằng cách&nbsp;nhấn vào biểu tượng 3 chấm góc bên phải mỗi tin đăng.</p>
+<p><img loading="lazy" width="500" height="304" class=" size-full wp-image-3473 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_2-e1494988772471.png" alt="hide_ad_2" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_2-e1494988772471.png 500w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_2-e1494988772471-300x182.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_2-e1494988772471-280x170.png 280w" sizes="(max-width: 500px) 100vw, 500px"></p>
+<p><strong>Bước 3:</strong>&nbsp;Nhấn vào biểu tượng <strong>Ẩn&nbsp;tin</strong>.</p>
+<p><img loading="lazy" width="554" height="341" class=" size-full wp-image-3474 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_3.png" alt="hide_ad_3" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_3.png 554w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_3-300x185.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_3-280x172.png 280w" sizes="(max-width: 554px) 100vw, 554px"></p>
+<p><strong>Bước 4:</strong> Chọn lí do ẩn tin, sau đó nhấn nút <strong>Ẩn tin.</strong></p>
+<p><img loading="lazy" width="384" height="240" class=" size-full wp-image-3475 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_4.png" alt="hide_ad_4" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_4.png 384w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_4-300x188.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_4-280x175.png 280w" sizes="(max-width: 384px) 100vw, 384px"></p>
+<p><strong>TRÊN TRÌNH DUYỆT WEB ĐIỆN THOẠI/ỨNG DỤNG CHỢ TỐT</strong></p>
+<p><strong>Bước 1:&nbsp;</strong>Đăng nhập vào tài khoản của bạn. Vào trang <a href="//www4.chotot.com/dashboard/ads"><strong>Quản lý tin đăng</strong></a>&nbsp;bằng cách nhấn vào biểu tượng tài khoản như hình bên dưới.</p>
+<p><img loading="lazy" width="433" height="341" class=" size-full wp-image-3476 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_1.png" alt="hide_ad_app_1" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_1.png 433w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_1-300x236.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_1-280x221.png 280w" sizes="(max-width: 433px) 100vw, 433px"></p>
+<p><strong>Bước 2:</strong> Chọn tin mà bạn muốn ẩn bằng cách&nbsp;nhấn vào biểu tượng 3 chấm góc bên phải mỗi tin đăng.</p>
+<p><img loading="lazy" width="463" height="378" class=" size-full wp-image-3477 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_2.png" alt="hide_ad_app_2" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_2.png 463w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_2-300x245.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_2-280x229.png 280w" sizes="(max-width: 463px) 100vw, 463px"></p>
+<p><strong>Bước 3:</strong>&nbsp;Nhấn vào biểu tượng <strong>Ẩn&nbsp;tin</strong>.</p>
+<p><img loading="lazy" width="463" height="378" class=" size-full wp-image-3478 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_3.png" alt="hide_ad_app_3" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_3.png 463w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_3-300x245.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_3-280x229.png 280w" sizes="(max-width: 463px) 100vw, 463px"></p>
+<p><strong>Bước 4:</strong> Chọn lí do ẩn tin, sau đó nhấn nút <strong>Ẩn tin.</strong></p>
+<p><img loading="lazy" width="462" height="378" class=" size-full wp-image-3479 alignnone" src="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_4.png" alt="hide_ad_app_4" srcset="https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_4.png 462w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_4-300x245.png 300w, https://static.chotot.com/storage/trogiup/2017/05/hide_ad_app_4-280x229.png 280w" sizes="(max-width: 462px) 100vw, 462px"></p>
+<p>Khi đó, bạn đã hoàn tất thao tác Ẩn tin và tin của bạn sẽ không còn hiện lên trang tin đăng rao bán.</p>
+
+<p>&nbsp;</p>
+                ', N'Tôi cần làm gì để Xoá tin đã đăng?', N'Với mục tiêu tạo niềm tin với khách mua xe và đề cao chữ Tín trong việc bán xe trực tuyến, Chợ Tốt ra mắt chương trình Đối Tác Chợ Tốt Xe.', null, '2022-09-10 16:48:40.285', null)
